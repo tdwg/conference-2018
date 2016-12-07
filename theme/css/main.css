@@ -1,0 +1,18 @@
+.jumbotron {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .jumbotron.c2017 {
+        background-image: url("https://images.unsplash.com/photo-1444877466744-dc2f2af2b931?dpr=2&auto=format&fit=crop&w=767&h=431&q=80&cs=tinysrgb&crop="); /* https://unsplash.com/photos/f5Fx_B3Qc4o */
+        height: 300px;
+    }
+    .jumbotron h1, .jumbotron p {
+        color: white;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    }
+    @media (min-width: 768px) {
+        .jumbotron p {
+            max-width: 50%;
+        }
+    }
