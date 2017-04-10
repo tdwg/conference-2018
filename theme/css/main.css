@@ -8,19 +8,18 @@ body {
 }
 
 .jumbotron-main {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    }
-.jumbotron-main {
-    background-image: url("../media/photo-1444877466744-dc2f2af2b931.jpeg");
-    height: 300px;
-    padding-bottom:0px;
-    margin-bottom:0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../media/photo-1444877466744-dc2f2af2b931.jpeg");
+  height: 300px;
+  padding-bottom:0px;
+  margin-bottom:0px;
 }
 .jumbotron-main h1, .jumbotron-main p {
     color: white;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    text-align:left;
 }
 
 .jumbotron {
