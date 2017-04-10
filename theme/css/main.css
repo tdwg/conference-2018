@@ -1,11 +1,16 @@
+body{
+  margin-bottom:30px;
+}
 .jumbotron {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     }
     .jumbotron.c2017 {
-        background-image: url("https://images.unsplash.com/photo-1444877466744-dc2f2af2b931?dpr=2&auto=format&fit=crop&w=767&h=431&q=80&cs=tinysrgb&crop="); /* https://unsplash.com/photos/f5Fx_B3Qc4o */
+        background-image: url("../media/photo-1444877466744-dc2f2af2b931.jpeg"); /* https://unsplash.com/photos/f5Fx_B3Qc4o */
         height: 300px;
+        padding-bottom:0px;
+        margin-bottom:0px;
     }
     .jumbotron h1, .jumbotron p {
         color: white;
