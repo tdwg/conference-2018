@@ -12,11 +12,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("../media/photo-1444877466744-dc2f2af2b931.jpeg");
-  height: 300px;
+  height: 350px;
   padding-bottom:0px;
   margin-bottom:0px;
 }
-.jumbotron-main h1, .jumbotron-main p {
+.jumbotron-main h1, .jumbotron-main h2, .jumbotron-main h3, .jumbotron-main p {
     color: white;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
     text-align:left;
