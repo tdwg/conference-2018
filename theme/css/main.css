@@ -12,8 +12,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("../media/photo-1444877466744-dc2f2af2b931.jpeg");
-  height: 325px;
-  padding-bottom:0px;
+  min-height:325px;
+  padding-bottom:10px;
   margin-bottom:0px;
 }
 .jumbotron-main h1, .jumbotron-main h2, .jumbotron-main h3, .jumbotron-main p {
