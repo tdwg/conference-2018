@@ -33,6 +33,10 @@ body {
   text-align:left;
 }
 
+.embed-responsive-gsheet {
+  padding-top: 68%;
+}
+
 @media (min-width: 768px) {
     .jumbotron-main p {
         max-width: 50%;
