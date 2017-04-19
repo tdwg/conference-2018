@@ -47,7 +47,7 @@
 
 <section>
 
-<div class="embed-responsive embed-responsive-gsheet">
+<div class="embed-responsive-gdoc">
   <iframe id="abstract" class="embed-responsive-item" src=""></iframe>
 </div>
 
@@ -55,22 +55,42 @@
 
   </div> <!-- /container -->
   <script>
-    function getParameterByName(name) {
-      var cname   = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"),
-          regexS  = "[\\?&]" + cname + "=([^&#]*)",
-          regex   = new RegExp(regexS),
-          results = regex.exec(window.location.href);
+    var abstractPage = {
+      abstract: $('#abstract'),
+      init: function() {
+        var self = this, src, id = this.getParameterByName("id");
+        if(id) {
+          src = "https://docs.google.com/document/d/"+id+"/pub?embedded=true";
+          this.abstract.one("load", function() {
+            self.resizeIframe();
+          }).attr("src", src);
+        }
+        $(window).resize(function() {
+          self.resizeIframe();
+        });
+      },
+      getParameterByName: function(name) {
+        var cname   = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"),
+            regexS  = "[\\?&]" + cname + "=([^&#]*)",
+            regex   = new RegExp(regexS),
+            results = regex.exec(window.location.href);
 
-      if(results === null) { return ""; }
-      return decodeURIComponent(results[1].replace(/\+/g, " "));
-    }
-    $(function () {
-      var src;
-      if (getParameterByName("id")) {
-        src = "https://docs.google.com/document/d/"+getParameterByName('id')+"/pub?embedded=true&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false";
-        $("#abstract").attr("src", src);
-      } 
-    });
+        if(results === null) { return ""; }
+          return decodeURIComponent(results[1].replace(/\+/g, " "));
+      },
+      resizeIframe: function() {
+        var height = $(document).height();
+        height -= this.pageY(this.abstract[0]) + 20 ;
+        height = (height < 0) ? 0 : height + 200;
+        this.abstract.height(height);
+      },
+      pageY: function(elem) {
+        return elem.offsetParent ? (elem.offsetTop + this.pageY(elem.offsetParent)) : elem.offsetTop;
+      }
+    };
+
+    $(function () { abstractPage.init(); });
+
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
