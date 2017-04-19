@@ -27,7 +27,7 @@ body {
 }
 
 .jumbotron-list{
-  width:65%;
+  width:95%;
   margin:0px auto;
   margin-bottom:20px;
   text-align:left;
@@ -40,5 +40,8 @@ body {
 @media (min-width: 768px) {
     .jumbotron-main p {
         max-width: 50%;
+    }
+    .jumbotron-list{
+      width:65%;
     }
 }
