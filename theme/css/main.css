@@ -55,6 +55,15 @@ body {
   border: 0;
 }
 
+#faq{
+  margin-top:2em;
+}
+
+#faq dd{
+  margin-bottom:1em;
+  margin-left:1em;
+}
+
 @media (min-width: 768px) {
     .jumbotron-main p {
         max-width: 50%;
