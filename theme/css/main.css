@@ -55,6 +55,15 @@ body {
   border: 0;
 }
 
+#registration-panel {
+  margin-top:2em;
+}
+
+#registration-panel p.btn {
+  text-align:center;
+  width:100%;
+}
+
 #faq{
   margin-top:2em;
 }
