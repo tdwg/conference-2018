@@ -3,6 +3,14 @@ body {
   padding-bottom: 20px;
 }
 
+ol li {
+  margin-bottom:0.5em;
+}
+
+.header {
+  margin-top:1.5em;
+}
+
 .navbar {
   margin-bottom: 20px;
 }
@@ -53,6 +61,29 @@ body {
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+#registration-panel {
+  margin-top:1.5em;
+}
+
+#registration-panel p.reg-btn {
+  text-align:center;
+  width:100%;
+}
+
+#faq{
+  margin-top:2em;
+}
+
+#faq dd{
+  margin-bottom:1em;
+  margin-left:1em;
+}
+
+#instructions img {
+  margin:0.5em 0;
+  display:block;
 }
 
 @media (min-width: 768px) {
