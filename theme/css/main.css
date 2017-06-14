@@ -83,6 +83,7 @@ ol li {
 
 #instructions img {
   margin:0.5em 0;
+  display:block;
 }
 
 @media (min-width: 768px) {
