@@ -148,6 +148,7 @@ ol li {
 
 .agenda .agenda-date {
     width: 170px;
+    min-width:135px;
 }
 
 .agenda .agenda-date .dayofmonth {
