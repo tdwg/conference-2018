@@ -72,11 +72,11 @@ ol li {
   width:100%;
 }
 
-#faq{
+.faq{
   margin-top:2em;
 }
 
-#faq dd{
+.faq dd{
   margin-bottom:1em;
   margin-left:1em;
 }
