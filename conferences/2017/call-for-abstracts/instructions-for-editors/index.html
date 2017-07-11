@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Abstract - TDWG 2017</title>
+        <title>Instructions for Editors - TDWG 2017</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="cache-control" content="max-age=0" />
         <meta http-equiv="cache-control" content="no-cache" />
@@ -17,7 +17,7 @@
         </script>
     </head>
 
-<body>
+<body id="instructions">
 
     <div class="container">
 
@@ -41,10 +41,10 @@
                   <ul class="dropdown-menu">
                     <li><a href="../../call-for-abstracts/">Announcement</a></li>
                     <li><a href="../../call-for-abstracts/instructions/">Submission Instructions</a></li>
-                    <li><a href="../../call-for-abstracts/instructions-for-editors/">Instructions for Editors</a></li>
+                    <li class="active"><a href="../../call-for-abstracts/instructions-for-editors/">Instructions for Editors</a></li>
                   </ul>
               </li>
-              <li class="active"><a href="../../program/">Program</a></li>
+              <li><a href="../../program/">Program</a></li>
               <li><a href="../../accommodations/">Accommodations</a></li>
               <li><a href="../../logistics/">Logistics</a></li>
               <li><a href="../../faq/">FAQ</a></li>
@@ -56,50 +56,12 @@
 
 <section>
 
-<div class="embed-responsive-gdoc">
-  <iframe id="abstract" class="embed-responsive-item" src=""></iframe>
-</div>
+<h2>Instructions for Editors</h2>
 
 </section>
 
   </div> <!-- /container -->
   <script>
-    var abstractPage = {
-      abstract: $('#abstract'),
-      init: function() {
-        var self = this, src, id = this.getParameterByName("id");
-        if(id) {
-          src = "https://docs.google.com/document/d/"+id+"/pub?embedded=true";
-          this.abstract.one("load", function() {
-            self.resizeIframe();
-          }).attr("src", src);
-        }
-        $(window).resize(function() {
-          self.resizeIframe();
-        });
-      },
-      getParameterByName: function(name) {
-        var cname   = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"),
-            regexS  = "[\\?&]" + cname + "=([^&#]*)",
-            regex   = new RegExp(regexS),
-            results = regex.exec(window.location.href);
-
-        if(results === null) { return ""; }
-          return decodeURIComponent(results[1].replace(/\+/g, " "));
-      },
-      resizeIframe: function() {
-        var height = $(document).height();
-        height -= this.pageY(this.abstract[0]) + 20 ;
-        height = (height < 0) ? 0 : height + 200;
-        this.abstract.height(height);
-      },
-      pageY: function(elem) {
-        return elem.offsetParent ? (elem.offsetTop + this.pageY(elem.offsetParent)) : elem.offsetTop;
-      }
-    };
-
-    $(function () { abstractPage.init(); });
-
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
