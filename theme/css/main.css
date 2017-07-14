@@ -25,6 +25,8 @@ ol li {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("../media/photo-1444877466744-dc2f2af2b931.jpeg");
+  margin-left:0px;
+  margin-right:0px;
 }
 .jumbotron-main h1, .jumbotron-main h2, .jumbotron-main h3, .jumbotron-main p {
     color: white;
