@@ -31,8 +31,11 @@ ol li {
 .jumbotron-main h1, .jumbotron-main h2, .jumbotron-main h3, .jumbotron-main p {
     color: white;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
-    text-align:left;
+    text-align:center;
 }
+
+.jumbotron-main .col-xs-2{display:none;}
+.jumbotron-main .col-xs-10{width:100%;}
 
 .jumbotron {
   text-align:center;
@@ -189,4 +192,16 @@ ol li {
     .jumbotron-list{
       width:65%;
     }
+}
+
+@media (min-width: 1200px) {
+  .jumbotron-main .col-xs-2 {
+    display:block;
+  }
+  .jumbotron-main .col-xs-10 {
+    width:83.33333333%
+  }
+  .jumbotron-main h1, .jumbotron-main h2, .jumbotron-main h3, .jumbotron-main p {
+    text-align:left;
+  }
 }
