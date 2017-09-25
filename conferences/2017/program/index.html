@@ -48,6 +48,12 @@
         </style>
         <script src="../../../theme/js/jquery-3.2.0.min.js"></script>
         <script src="../../../theme/js/bootstrap.min.js"></script>
+        <script>
+          $('#nav-tab a').click(function (e) {
+            e.preventDefault()
+            $(this).tab('show')
+          });
+        </script>
     </head>
 
 <body>
@@ -104,122 +110,135 @@
 
 <div class="jumbotron"><h2>Program</h2><p class="lead">The full program is now available.<br><a href="TDWG2017_Program.pdf">Download</a> <em>(1.4MB, prepared September 24, 2017)</em><br>The Sched version can be found at <a href="https://tdwg2017.sched.com">https://tdwg2017.sched.com</a></p></div>
 
-<h2>Schedule at a Glance</h2>
+<ul id="nav-tab" class="nav nav-tabs" role="tablist">
+  <li role="presentation" class="active"><a href="#schedule-glance" aria-controls="schedule-glance" role="tab" data-toggle="tab">Schedule at a Glance</a></li>
+  <li role="presentation"><a href="#schedule-daily" aria-controls="schedule-daily" role="tab" data-toggle="tab">Daily Schedule</a></li>
+</ul>
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<thead>
-<tr align="center">
-<th valign="top" style="width:105px">Day</th><th valign="top" style="width:130px">Time</th><th valign="top" style="width:130px;">Misc</th><th valign="top" style="width:175px;">Ballroom A</th><th valign="top" style="width:130px;">Ballroom B</th><th valign="top" style="width:175px;">Capitale</th><th valign="top" style="width:175px;">Chaudiere</th></tr>
-</thead>
-<tbody>
-<tr>
-<td>Saturday, 30 Sep</td><td>09:00 AM - 04:30 PM</td><td colspan="5"><a href="https://idigbio.github.io/2017-09-30-TDWG-Ottawa/">Data Carpentry Workshop</a>, <em>Canadian Museum of Nature, 240 McLeod St, Ottawa</em></td></tr>
-<tr class="newday"><td colspan="7"></td></tr><tr>
-<td>Sunday,  1 Oct</td><td>09:00 AM - 04:30 PM</td><td colspan="5"><a href="https://idigbio.github.io/2017-09-30-TDWG-Ottawa/">Data Carpentry Workshop</a>, <em>Canadian Museum of Nature, 240 McLeod St, Ottawa</em></td></tr>
-<tr>
-<td>Sunday,  1 Oct</td><td>09:00 AM - 05:00 PM</td><td style="border-left:1px solid #E1E1E1">TDWG Executive, <em>Bytowne</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG01: Data Quality (by invitation)</td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Sunday,  1 Oct</td><td>05:30 PM - 08:00 PM</td><td colspan="5">Registration in the Penthouse, <em>Panorama</em></td></tr>
-<tr>
-<td>Sunday,  1 Oct</td><td>06:00 PM - 09:00 PM</td><td colspan="5">Welcome Reception in the Penthouse, <em>Panorama</em></td></tr>
-<tr class="newday"><td colspan="7"></td></tr><tr>
-<td>Monday,  2 Oct</td><td>08:00 AM - 09:00 AM</td><td colspan="5">Registration, <em>Victoria</em></td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks & Hang Posters</td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Welcoming remarks and guide to the meeting</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Roderic D.M. Page - Towards a Biodiversity Knowledge Graph</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Monday,  2 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Contributed: What do People, DiSSCo, Brazil, Symbiota, BISON and Google have in common?</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W19: Construction of biodiversity knowledge graphs driven by federated text mining tools</td><td style="border-left:1px solid #E1E1E1">W01: Establishing a global registration system of algal names and types</td></tr>
-<tr class="lunch">
-<td>Monday,  2 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch provided</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="lunch">
-<td>Monday,  2 Oct</td><td>01:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Newcomers Meet & Greet</td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S28: Financial Models for Sustaining Biodiversity Informatics Products</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W03: Towards robust interoperability in multi-omic approaches to biodiversity monitoring</td><td style="border-left:1px solid #E1E1E1">S04: Advances in data accessibility and data management for marine species occurrence data</td></tr>
-<tr class="break">
-<td>Monday,  2 Oct</td><td>03:30 PM - 04:00 PM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Monday,  2 Oct</td><td>03:40 PM - 03:55 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>04:00 PM - 05:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Contributed: Topics in Climate Change</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W03: Towards robust interoperability in multi-omic approaches to biodiversity monitoring</td><td style="border-left:1px solid #E1E1E1">S04: Advances in data accessibility and data management for marine species occurrence data</td></tr>
-<tr>
-<td>Monday,  2 Oct</td><td>07:00 PM - 10:00 PM</td><td colspan="5">Night at the Museum, <em>Canadian Museum of Nature, 240 McLeod St, Ottawa</em></td></tr>
-<tr class="newday"><td colspan="7"></td></tr><tr>
-<td>Tuesday,  3 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks & Hang Posters</td></tr>
-<tr>
-<td>Tuesday,  3 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">i. Overview of TDWG and TDWG standards; ii. Announcement of Biodiversity Information Science and Standards (BISS), the new journal of TDWG</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Tuesday,  3 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Anne Bowser - Standardizing Citizen Science?</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Tuesday,  3 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Even Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Tuesday,  3 Oct</td><td>10:40 AM - 10:55 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Tuesday,  3 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S02: Biodiversity Data Quality – concepts, methods and tools</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W09: Implementing Biodiversity Standards for Paleobiology</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
-<tr class="lunch">
-<td>Tuesday,  3 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch on your own</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG02: Technical Architecture Meeting</td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Tuesday,  3 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S02: Biodiversity Data Quality – concepts, methods and tools</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S15: Agricultural Informatics Contributions to Biodiversity Science and Biodiversity Assessments</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
-<tr class="break">
-<td>Tuesday,  3 Oct</td><td>03:30 PM - 04:00 PM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Odd Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Tuesday,  3 Oct</td><td>03:40 PM - 03:55 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Tuesday,  3 Oct</td><td>04:00 PM - 05:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S22: Biological Interaction Data - towards data standardization</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S10: 500 Years of Big Data from the Biodiversity Heritage Library</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
-<tr class="newday"><td colspan="7"></td></tr><tr>
-<td>Wednesday,  4 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks</td></tr>
-<tr>
-<td>Wednesday,  4 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Wild Ideas</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Wednesday,  4 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Javier de la Torre - Everything happens somewhere, multiple times</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Wednesday,  4 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Wednesday,  4 Oct</td><td>10:40 AM - 10:55 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Wednesday,  4 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S16: Using Big Data Techniques to Cross Dataset Boundaries - Integration and Analysis of Multiple Datasets</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S12: Citizen Science Contributions to Biodiversity Research and Standards</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
-<tr>
-<td>Wednesday,  4 Oct</td><td>01:00 PM - 05:30 PM</td><td colspan="5">Excursion, boxed lunch provided, <em>Canadian Museum of Nature Collections or Pink Lake Hike</em></td></tr>
-<tr class="newday"><td colspan="7"></td></tr><tr>
-<td>Thursday,  5 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Registration, <em>Victoria</em></td></tr>
-<tr>
-<td>Thursday,  5 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Standards in Action: The Darwin Core Hour</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Thursday,  5 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Pamela Soltis - Linking Heterogeneous Data in Biodiversity Research</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Thursday,  5 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Odd Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr class="break">
-<td>Thursday,  5 Oct</td><td>10:40 AM - 10:55 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Thursday,  5 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S18: Bridging Gaps between Biodiversity Informaticians and Collections Professionals</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W21: Biological Interaction Data Workgroup</td><td style="border-left:1px solid #E1E1E1">IG03: Species Information</td></tr>
-<tr class="lunch">
-<td>Thursday,  5 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch on your own</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG02: Technical Architecture Meeting</td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Thursday,  5 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S18: Bridging Gaps between Biodiversity Informaticians and Collections Professionals</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W23: Towards an Online Atlas of Phenology</td><td style="border-left:1px solid #E1E1E1">W06: Data Quality Workshop</td></tr>
-<tr class="break">
-<td>Thursday,  5 Oct</td><td>03:30 PM - 04:00 PM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Even Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Thursday,  5 Oct</td><td>04:00 PM - 05:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W17: The EDIT Platform for Cybertaxonomy, Current State and Envisaged Integration into the Biodiversity Informatics Infrastructure</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W23: Towards an Online Atlas of Phenology</td><td style="border-left:1px solid #E1E1E1">W06: Data Quality Workshop</td></tr>
-<tr>
-<td>Thursday,  5 Oct</td><td>05:45 PM - 11:00 PM</td><td colspan="5">Banquet, <em>Canadian Museum of History, 100 Laurier Street, Gatineau (Hull), Quebec</em></td></tr>
-<tr class="newday"><td colspan="7"></td></tr><tr>
-<td>Friday,  6 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks</td></tr>
-<tr>
-<td>Friday,  6 Oct</td><td>09:00 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S20: Traits - Data models, sources, vocabulary, interoperability and their presentation and discoverability via species information pages</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W14: Standards for Citizen Science Biodiversity Studies</td><td style="border-left:1px solid #E1E1E1">W08: Biodiversity data annotations – state of the play and perspectives</td></tr>
-<tr class="break">
-<td>Friday,  6 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Friday,  6 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Contributed: Topics in Taxonomy and Ontologies</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG04: Natural Collections Description Meeting</td><td style="border-left:1px solid #E1E1E1">W08: Biodiversity data annotations – state of the play and perspectives</td></tr>
-<tr class="lunch">
-<td>Friday,  6 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch provided</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-<tr>
-<td>Friday,  6 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Business Meeting: Reports from Treasurer, Interest and Task Groups; Preview of TDWG2018; Closing Remarks</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
-</tbody>
-</table>
+<div class="tab-content">
+  <div role="tabpanel" class="tab-pane active" id="schedule-glance">
+    <h2>Schedule at a Glance</h2>
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <thead>
+    <tr align="center">
+    <th valign="top" style="width:105px">Day</th><th valign="top" style="width:130px">Time</th><th valign="top" style="width:130px;">Misc</th><th valign="top" style="width:175px;">Ballroom A</th><th valign="top" style="width:130px;">Ballroom B</th><th valign="top" style="width:175px;">Capitale</th><th valign="top" style="width:175px;">Chaudiere</th></tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Saturday, 30 Sep</td><td>09:00 AM - 04:30 PM</td><td colspan="5"><a href="https://idigbio.github.io/2017-09-30-TDWG-Ottawa/">Data Carpentry Workshop</a>, <em>Canadian Museum of Nature, 240 McLeod St, Ottawa</em></td></tr>
+    <tr class="newday"><td colspan="7"></td></tr><tr>
+    <td>Sunday,  1 Oct</td><td>09:00 AM - 04:30 PM</td><td colspan="5"><a href="https://idigbio.github.io/2017-09-30-TDWG-Ottawa/">Data Carpentry Workshop</a>, <em>Canadian Museum of Nature, 240 McLeod St, Ottawa</em></td></tr>
+    <tr>
+    <td>Sunday,  1 Oct</td><td>09:00 AM - 05:00 PM</td><td style="border-left:1px solid #E1E1E1">TDWG Executive, <em>Bytowne</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG01: Data Quality (by invitation)</td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Sunday,  1 Oct</td><td>05:30 PM - 08:00 PM</td><td colspan="5">Registration in the Penthouse, <em>Panorama</em></td></tr>
+    <tr>
+    <td>Sunday,  1 Oct</td><td>06:00 PM - 09:00 PM</td><td colspan="5">Welcome Reception in the Penthouse, <em>Panorama</em></td></tr>
+    <tr class="newday"><td colspan="7"></td></tr><tr>
+    <td>Monday,  2 Oct</td><td>08:00 AM - 09:00 AM</td><td colspan="5">Registration, <em>Victoria</em></td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks & Hang Posters</td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Welcoming remarks and guide to the meeting</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Roderic D.M. Page - Towards a Biodiversity Knowledge Graph</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Monday,  2 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Contributed: What do People, DiSSCo, Brazil, Symbiota, BISON and Google have in common?</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W19: Construction of biodiversity knowledge graphs driven by federated text mining tools</td><td style="border-left:1px solid #E1E1E1">W01: Establishing a global registration system of algal names and types</td></tr>
+    <tr class="lunch">
+    <td>Monday,  2 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch provided</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="lunch">
+    <td>Monday,  2 Oct</td><td>01:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Newcomers Meet & Greet</td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S28: Financial Models for Sustaining Biodiversity Informatics Products</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W03: Towards robust interoperability in multi-omic approaches to biodiversity monitoring</td><td style="border-left:1px solid #E1E1E1">S04: Advances in data accessibility and data management for marine species occurrence data</td></tr>
+    <tr class="break">
+    <td>Monday,  2 Oct</td><td>03:30 PM - 04:00 PM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Monday,  2 Oct</td><td>03:40 PM - 03:55 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>04:00 PM - 05:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Contributed: Topics in Climate Change</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W03: Towards robust interoperability in multi-omic approaches to biodiversity monitoring</td><td style="border-left:1px solid #E1E1E1">S04: Advances in data accessibility and data management for marine species occurrence data</td></tr>
+    <tr>
+    <td>Monday,  2 Oct</td><td>07:00 PM - 10:00 PM</td><td colspan="5">Night at the Museum, <em>Canadian Museum of Nature, 240 McLeod St, Ottawa</em></td></tr>
+    <tr class="newday"><td colspan="7"></td></tr><tr>
+    <td>Tuesday,  3 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks & Hang Posters</td></tr>
+    <tr>
+    <td>Tuesday,  3 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">i. Overview of TDWG and TDWG standards; ii. Announcement of Biodiversity Information Science and Standards (BISS), the new journal of TDWG</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Tuesday,  3 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Anne Bowser - Standardizing Citizen Science?</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Tuesday,  3 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Even Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Tuesday,  3 Oct</td><td>10:40 AM - 10:55 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Tuesday,  3 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S02: Biodiversity Data Quality – concepts, methods and tools</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W09: Implementing Biodiversity Standards for Paleobiology</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
+    <tr class="lunch">
+    <td>Tuesday,  3 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch on your own</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG02: Technical Architecture Meeting</td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Tuesday,  3 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S02: Biodiversity Data Quality – concepts, methods and tools</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S15: Agricultural Informatics Contributions to Biodiversity Science and Biodiversity Assessments</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
+    <tr class="break">
+    <td>Tuesday,  3 Oct</td><td>03:30 PM - 04:00 PM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Odd Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Tuesday,  3 Oct</td><td>03:40 PM - 03:55 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Tuesday,  3 Oct</td><td>04:00 PM - 05:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S22: Biological Interaction Data - towards data standardization</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S10: 500 Years of Big Data from the Biodiversity Heritage Library</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
+    <tr class="newday"><td colspan="7"></td></tr><tr>
+    <td>Wednesday,  4 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks</td></tr>
+    <tr>
+    <td>Wednesday,  4 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Wild Ideas</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Wednesday,  4 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Javier de la Torre - Everything happens somewhere, multiple times</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Wednesday,  4 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Wednesday,  4 Oct</td><td>10:40 AM - 10:55 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Wednesday,  4 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S16: Using Big Data Techniques to Cross Dataset Boundaries - Integration and Analysis of Multiple Datasets</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S12: Citizen Science Contributions to Biodiversity Research and Standards</td><td style="border-left:1px solid #E1E1E1">W07: Reusing an open source platform in order to create a community: example of the Living Atlases community</td></tr>
+    <tr>
+    <td>Wednesday,  4 Oct</td><td>01:00 PM - 05:30 PM</td><td colspan="5">Excursion, boxed lunch provided, <em>Canadian Museum of Nature Collections or Pink Lake Hike</em></td></tr>
+    <tr class="newday"><td colspan="7"></td></tr><tr>
+    <td>Thursday,  5 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Registration, <em>Victoria</em></td></tr>
+    <tr>
+    <td>Thursday,  5 Oct</td><td>09:00 AM - 09:40 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Standards in Action: The Darwin Core Hour</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Thursday,  5 Oct</td><td>09:40 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Keynote: Pamela Soltis - Linking Heterogeneous Data in Biodiversity Research</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Thursday,  5 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Odd Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr class="break">
+    <td>Thursday,  5 Oct</td><td>10:40 AM - 10:55 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Computer Demo</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Thursday,  5 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S18: Bridging Gaps between Biodiversity Informaticians and Collections Professionals</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W21: Biological Interaction Data Workgroup</td><td style="border-left:1px solid #E1E1E1">IG03: Species Information</td></tr>
+    <tr class="lunch">
+    <td>Thursday,  5 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch on your own</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG02: Technical Architecture Meeting</td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Thursday,  5 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S18: Bridging Gaps between Biodiversity Informaticians and Collections Professionals</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W23: Towards an Online Atlas of Phenology</td><td style="border-left:1px solid #E1E1E1">W06: Data Quality Workshop</td></tr>
+    <tr class="break">
+    <td>Thursday,  5 Oct</td><td>03:30 PM - 04:00 PM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Posters (Even Numbers)</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Thursday,  5 Oct</td><td>04:00 PM - 05:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W17: The EDIT Platform for Cybertaxonomy, Current State and Envisaged Integration into the Biodiversity Informatics Infrastructure</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W23: Towards an Online Atlas of Phenology</td><td style="border-left:1px solid #E1E1E1">W06: Data Quality Workshop</td></tr>
+    <tr>
+    <td>Thursday,  5 Oct</td><td>05:45 PM - 11:00 PM</td><td colspan="5">Banquet, <em>Canadian Museum of History, 100 Laurier Street, Gatineau (Hull), Quebec</em></td></tr>
+    <tr class="newday"><td colspan="7"></td></tr><tr>
+    <td>Friday,  6 Oct</td><td>08:30 AM - 09:00 AM</td><td colspan="5">Load Talks</td></tr>
+    <tr>
+    <td>Friday,  6 Oct</td><td>09:00 AM - 10:30 AM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">S20: Traits - Data models, sources, vocabulary, interoperability and their presentation and discoverability via species information pages</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">W14: Standards for Citizen Science Biodiversity Studies</td><td style="border-left:1px solid #E1E1E1">W08: Biodiversity data annotations – state of the play and perspectives</td></tr>
+    <tr class="break">
+    <td>Friday,  6 Oct</td><td>10:30 AM - 11:00 AM</td><td style="border-left:1px solid #E1E1E1">Break, <em>Ballroom B</em></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Friday,  6 Oct</td><td>11:00 AM - 12:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Contributed: Topics in Taxonomy and Ontologies</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">IG04: Natural Collections Description Meeting</td><td style="border-left:1px solid #E1E1E1">W08: Biodiversity data annotations – state of the play and perspectives</td></tr>
+    <tr class="lunch">
+    <td>Friday,  6 Oct</td><td>12:30 PM - 02:00 PM</td><td style="border-left:1px solid #E1E1E1">Lunch provided</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    <tr>
+    <td>Friday,  6 Oct</td><td>02:00 PM - 03:30 PM</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1">Business Meeting: Reports from Treasurer, Interest and Task Groups; Preview of TDWG2018; Closing Remarks</td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td><td style="border-left:1px solid #E1E1E1"></td></tr>
+    </tbody>
+    </table>
+  </div>
+  <div role="tabpanel" class="tab-pane" id="schedule-daily">
+    <h2>Daily Schedule</h2>
+    <a id="sched-embed" data-sched-sidebar="no" href="http://tdwg2017.sched.com/">View the TDWG 2017 mobile app</a><script type="text/javascript" src="http://tdwg2017.sched.com/js/embed.js"></script>
+  </div>
+</div>
 
 </section>
 
