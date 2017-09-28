@@ -1,2 +1,4 @@
 # tdwg.github.io
-TDWG website
+TDWG static website for conferences.
+
+(Please see https://github.com/tdwg/website for the new TDWG website under development)
