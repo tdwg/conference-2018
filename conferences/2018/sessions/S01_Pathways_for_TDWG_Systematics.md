@@ -1,9 +1,6 @@
 ---
 title: New Joint Pathways for TDWG and Systematics
-site.title: none
 ---
-
-# New Joint Pathways for TDWG and Systematics
 
 **Type:** 
 
