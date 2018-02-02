@@ -1,6 +1,6 @@
 ---
 title: New Joint Pathways for TDWG and Systematics
-layout: page
+layout: default
 ---
 
 **Type:** 
