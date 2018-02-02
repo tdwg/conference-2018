@@ -1,3 +1,7 @@
+---
+title: New Joint Pathways for TDWG and Systematics
+---
+
 **Type:** 
 
 Symposium
