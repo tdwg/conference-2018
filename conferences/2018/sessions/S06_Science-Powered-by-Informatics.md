@@ -1,0 +1,32 @@
+Science Powered by Informatics - The Next Steps
+
+Abigail Benson, albenson@usgs.gov , U.S. Geological Survey
+
+Robert Guralnick, rguralnick@flmnh.ufl.edu, University of Florida
+
+Symposium, accepting unsolicited abstract submissions, one session
+
+The biodiversity informatics work that has been conducted and enabled by Taxonomic Databases Working Group (TDWG) provides the foundation for new kinds of science outputs at temporally and spatially relevant scales.  TDWG standards have so-far focused primarily on species occurrence data modeling with outputs such as Darwin Core and ABCD, and the associated evidence about those occurrences e.g. multimedia resources.  The next step is to extend standards work into new arenas that align more fully with the models that generate biodiversity knowledge.  We propose to bring together the TDWG community to discuss how current standards are being extended, and how new developments are occurring across our community, especially in support of science and policy efforts to protect the environment.  We focus in particular on how such efforts can support science and policy arenas, such as those spearheaded by the Group on Earth Observations Biodiversity Observation Network.  We cover not only standards and tools for complex datasets, such as those generated from surveys and inventories, but also approaches for reporting outcomes of key analyses such as from niche modeling experiments.  The goal of the symposium is to think bigger about bold steps to align TDWG's core mission with scientists and policy makers working on the cutting edge of environmental challenges. 
+
+ 
+
+Topics to be addressed:
+
+·       Scientific discoveries or advancements made possible via standards/technology
+
+·       Biological policy decisions impacted by standards/technology
+
+·       Essential biodiversity variables (EBVs) and datasets that support the EBV process
+
+·       Development of standards in support of indicators and other derived products
+
+·       Development of standards for monitoring datasets
+
+·       Development of minimum information requirements for key model types such as ecological niche models
+
+·       Ontologies to support sustainable development goals
+
+·       Ontologies for data integration of new types of data resources such as traits
+
+·       Links between informatics and science and policy outcomes in theory and practice
+

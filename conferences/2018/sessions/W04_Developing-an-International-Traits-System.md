@@ -1,0 +1,42 @@
+
+
+**Type:** 
+
+Workshop
+
+**Full Title:** 
+
+Next generation biodiversity data: developing an international traits system
+
+**Short Title:** 
+
+Developing an international traits system
+
+**Primary Contact Name:** 
+
+Hamish Holewa
+
+**Primary Contact Email:** 
+
+[hamish.holewa@csiro.au](mailto:hamish.holewa@csiro.au)
+
+**Primary Contact Affiliation/Organisation:** 
+
+Atlas of Living Australia
+
+**Other Contributors:** 
+
+Encyclopedia of Life
+
+**How many 80-minute sessions are you requesting?** 2
+
+**Is your session open to unsolicited contributions?** No
+
+**Technical Requirements:** 
+
+Computer presentation support 
+
+**Abstract:** 
+
+Biodiversity "trait data" refers to a variety of species or specimen level attributes that can contribute to our understanding, assessment, conservation and sustainable use of biodiversity (e.g. morphology, species interactions, derived genomic information, life history/stage/behaviour, ecological attributes and tolerances, medicinal or food uses, etc.). There are several initiatives around the world that are starting to make computable trait data available to the biodiversity research community. There is now an opportunity to work together to create an international traits system that will facilitate the sharing, integration and use of this data, and bringing it into eResearch infrastructures to fully integrate it with other data streams, environmental layers, phylogenetic tools and mapping and analysis capability. This workshop will follow from an iDigBio workshop that will identify the major components needed to develop an international traits system. This workshop will focus on data standard aspects that enable the capture and use of trait data at an occurrence or specimen level. Organisers: Hamish Holewa, Robina Sanderson, John La Salle, Dave Martin
+

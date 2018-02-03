@@ -1,0 +1,40 @@
+
+
+**Type:** 
+
+Workshop
+
+**Full Title:** 
+
+Names for Biodiversity
+
+**Short Title:** 
+
+Names for Biodiversity
+
+**Primary Contact Name:** 
+
+Greg Whitbread
+
+**Primary Contact Email:** 
+
+[whitbread.greg@gmail.com](mailto:whitbread.greg@gmail.com)
+
+**Primary Contact Affiliation/Organisation:** 
+
+[Biodiversity.org.au](http://biodiversity.org.au/)
+
+**Other Contributors:** 
+
+Anne Fuchs, Niels Klazenga, Nico Franz, Markus Döring, Rich Pyle
+
+**How many 80-minute sessions are you requesting?** 1
+
+**Is your session open to unsolicited contributions?** No
+
+**Technical Requirements:** 
+
+**Abstract:** 
+
+The purpose of this workshop is to raise awareness of the importance of names to biodiversity informatics and to reinvigorate a more collaborative phase of standards development with names within the TDWG umbrella. Our existing names standards, and standards with names, are now well tested and found to be lacking. They don't provide for round-trips on data within our own systems; there is insufficient support for scientific applications and linked data; and there are incomplete paths to publication or meaningful delivery of data into clients' systems. More telling, with the exception of Darwin Core, they are rarely used. As a consequence, recent work on names has fragmented into individual and isolated project efforts. There are now more terms than concepts, more definitions than terms, many more-or-less similar vocabularies, alternative frameworks and non-interoperable application systems. This may well be the natural process of evolution, but we do need to make time now to discuss reconciliation and a more collaborative approach to development of a workable standard for names. Can we work together to fill the gaps, and to resolve the competing requirements of aggregation and science, data and knowledge, product and research, Code-compliance and interoperability? This workshop will aim for consensus around the idea that we can work together within TDWG to develop a pragmatic replacement for the existing names standards, and a map to get us there. Open Data need open standards and open standards need open development. Not everyone gets names; those who do need to be working together.
+

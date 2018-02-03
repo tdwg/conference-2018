@@ -1,0 +1,42 @@
+
+
+**Type:** 
+
+Symposium
+
+**Full Title:** 
+
+Biodiversity Data Quality – alpha to omega
+
+**Short Title:** 
+
+Biodiversity Data Quality – alpha to omega
+
+**Primary Contact Name:** 
+
+Arthur Chapman
+
+**Primary Contact Email:** 
+
+[accounts@achapman.org](mailto:accounts@achapman.org)
+
+**Primary Contact Affiliation/Organisation:** 
+
+Australian Biodiversity Information Services
+
+**Other Contributors:** 
+
+Alex Thompson; Antonio Saraiva; Lee Belbin
+
+**How many 80-minute sessions are you requesting?** 2
+
+**Is your session open to unsolicited contributions?** Yes
+
+**Technical Requirements:** 
+
+NB. We are aware of a similar (overlapping) proposal to the SPNHC Symposium. We have discussed and suggest that a Joint Plenary and then each (SPNHC and TDWG) have separate Symposia. It would be good if they don't overlap as many will wish to attend both
+
+**Abstract:** 
+
+The goal of this 5th Symposium is to discuss the developing standards in Biodiversity data quality and explore methods of using these standards at all stages of the data information chain – from the collector/observer to the aggregators and most importantly - the data consumers. Data quality (DQ) remains a major concern in Biodiversity Informatics. The distributed nature of data acquisition, the difficulties associated with capturing the dimensions of taxonomy, space and time, make it mandatory to discuss DQ in biodiversity data to ensure maximum utility and re-use. It also important that the results of data quality assessments and improvements are fed back through the system to the people and organizations in charge of maintaining those data both now and into the future. We must ensure that the community is engaged to share and benefit from innovative ideas, methods and tools that are being developed to assess 'data quality' or better fitness for use. The TDWG Data Quality Interest Group has been working hard over the past few years to develop data quality standards and last year published a framework. Over the past year we have finalized a suite of core data quality tests covering name, space, time and 'other' – i.e. the key Darwin Core terms relating to the name of the organism, where it was collected or observed, and when. Previous symposia on DQ were held at the TDWG meetings in Florence, Italy/2013, Jönköping, Sweden/2014, Santa Clara de San Carlos, Costa Rica/2016 and Ottawa, Canada/2017. From these earlier meetings, the TDGW/GBIF Interest Group on DQ was established. Subsequently three task groups were also created: TG1 – BDQ Framework, TG2 – BDQ Tools, services and workflows, and TG3 – BDQ Use cases. A fourth group on Vocabularies is likely by the time of the meeting. These groups address the most important data quality issues identified by the attendees at prior symposia. In this, our 5th Symposium we seek to engage the audience in our work, seek feedback and discussion, and recruit participants to the large and vital task to achieve a highly utilized suite of outcomes.
+

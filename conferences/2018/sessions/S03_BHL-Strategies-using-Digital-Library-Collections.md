@@ -1,0 +1,40 @@
+
+
+**Type:** 
+
+Symposium
+
+**Full Title:** 
+
+Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections
+
+**Short Title:** 
+
+**Primary Contact Name:** 
+
+Carolyn Sheffield
+
+**Primary Contact Email:** 
+
+[sheffieldc@si.edu](mailto:sheffieldc@si.edu)
+
+**Primary Contact Affiliation/Organisation:** 
+
+Biodiversity Heritage Library
+
+**Other Contributors:** 
+
+Constance Rinaldo; Grace Costantino; Siobhan Leachman; 
+
+**How many 80-minute sessions are you requesting?** 1
+
+**Is your session open to unsolicited contributions?** No
+
+**Technical Requirements:** 
+
+No, just the usual projector, mic, etc
+
+**Abstract:** 
+
+Biodiversity literature and archival collections serve as lynchpin data sources for understanding the vast specimen collections of natural history museums and botanical gardens by documenting where the specimens came from, the context in which they were collected, and generally serving as a treasured source of the knowledge that has already been gained from studying them. As an international consortium, the Biodiversity Heritage Library (BHL) participates in the larger biodiversity community as both a provider of rich, open access collections and a consumer of biodiversity data. BHL contains over 53 million pages of biodiversity literature and archives, containing over 180 million instances of taxonomic names, along with species descriptions, traits, and other related data. The information found in these pages are crucial for not just identifying new species but also identifying which species to protect in conservation efforts, focusing those efforts based on historic distribution records, and learning from past extinctions. In fact, such literature collections sometimes contain the only record of specimens which have been destroyed. As a consumer of biodiversity literature, BHL makes the taxonomic names in the pages of the literature searchable thanks to tools and services powered by Global Names Architecture (GNA). As a long-time partner with the Encyclopedia of Life (EOL), taxonomic names and literature references are interlinked between BHL and EOL and tagged images are contributed to EOL species pages as part of citizen science activities. For the past few years, BHL has also contributed content to Europeana and served as a digital content hub for the Digital Public Library of America (DPLA). BHL also consumes data thanks to the efforts of countless volunteers transcribing field notes, correcting OCR, and assigning machine tags. This session will cover how BHL makes its data available through tools and services; efforts to incorporate BHL data and collections into external systems; strategies to clean, enhance, and improve discoverability through crowdsourcing initiatives; as well as current goals, challenges, and approaches in terms of technical development for improving research methodology.
+
