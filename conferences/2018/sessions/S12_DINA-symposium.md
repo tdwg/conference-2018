@@ -1,4 +1,7 @@
-
+---
+title: DINA - Digital Information System for Natural History Data
+layout: default
+---
 
 **Type:** 
 

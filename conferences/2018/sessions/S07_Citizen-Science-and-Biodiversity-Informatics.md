@@ -1,3 +1,9 @@
+---
+title: Citizen Science and Biodiversity Informatics for Natural History Collections and Field Observations
+layout: default
+---
+
+
 1. Names, email addresses, and affiliations of all organizers.
 
 Rob Stevenson

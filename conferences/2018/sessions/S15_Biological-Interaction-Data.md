@@ -1,4 +1,7 @@
-
+---
+title: Biological Interaction Data: towards data standardization
+layout: default
+---
 
 **Type:** 
 

@@ -1,4 +1,7 @@
-
+---
+title: The Global Genome Biodiversity Network (GGBN) Standards for Molecular Collections
+layout: default
+---
 
 **Type:**
 

@@ -1,4 +1,7 @@
-
+---
+title: Data Integration and Attribution in the Web of Natural History Data
+layout: default
+---
 
 **Type:** 
 

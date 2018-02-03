@@ -1,3 +1,10 @@
+---
+title: Science Powered by Informatics - The Next Steps
+layout: default
+---
+
+
+
 Science Powered by Informatics - The Next Steps
 
 Abigail Benson, albenson@usgs.gov , U.S. Geological Survey

@@ -1,4 +1,7 @@
-
+---
+title: Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience
+layout: default
+---
 
 **Type:** 
 

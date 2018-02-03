@@ -1,4 +1,7 @@
-
+---
+title: Digital Collection Data: storage, archive and disaster recovery
+layout: default
+---
 
 **Type:** 
 

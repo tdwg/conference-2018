@@ -1,8 +1,15 @@
+---
+title: Invasive Species Experts' Panel: Breaking Information Silos
+layout: default
+---
+
 **2018 TDWG/SPNHC Joint Meeting Symposium Proposal**
 
 **Type:** Symposium
 
-**Title:** Invasive Species Experts' Panel: Breaking Information Silos
+**Title:** 
+
+Invasive Species Experts' Panel: Breaking Information Silos
 
 **Short Title:** Breaking Invasive Species Information Silos
 

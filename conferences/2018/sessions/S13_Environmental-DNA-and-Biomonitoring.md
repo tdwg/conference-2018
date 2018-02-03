@@ -1,4 +1,7 @@
-
+---
+title: Environmental DNA and Biomonitoring
+layout: default
+---
 
 **Type:** 
 
@@ -6,7 +9,7 @@ Symposium
 
 **Full Title:** 
 
-Environmental DNA and Biomonitoring 
+Environmental DNA and Biomonitoring
 
 **Short Title:** 
 

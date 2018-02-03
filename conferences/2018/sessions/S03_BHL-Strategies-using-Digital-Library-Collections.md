@@ -1,4 +1,7 @@
-
+---
+title: Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections
+layout: default
+---
 
 **Type:** 
 
