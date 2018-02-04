@@ -3,41 +3,31 @@ title: S01 New Joint Pathways for TDWG and Systematics
 layout: default
 ---
 
-**Type:** 
+**Type:** Symposium
 
-Symposium
+**Full Title:** S01: New Joint Pathways for TDWG and Systematics
 
-**Full Title:** 
+**Short Title:** TDWG and Systematics
 
-New Joint Pathways for TDWG and Systematics
+**Primary Contact Name:** Nico Franz
 
-**Short Title:** 
+**Primary Contact Email:** [nico.franz@asu.edu](mailto:nico.franz@asu.edu)
 
-TDWG and Systematics
-
-**Primary Contact Name:** 
-
-Nico Franz
-
-**Primary Contact Email:** 
-
-[nico.franz@asu.edu](mailto:nico.franz@asu.edu)
-
-**Primary Contact Affiliation/Organisation:** 
-
-Arizona State University
+<!-- **Primary Contact Affiliation/Organisation:** Arizona State University
 
 **Other Contributors:** 
 
 TBD - I would like to open this up entirely, and mostly to early-career systematists (graduate students, postdocs) who typically would not attend TDWG.
 
 **How many 80-minute sessions are you requesting?** 2
+-->
+**Unsolicited contributions considered?** Yes
 
-**Is your session open to unsolicited contributions?** Yes
-
+<!-- 
 **Technical Requirements:** 
 
 No.
+-->
 
 **Abstract:** 
 
