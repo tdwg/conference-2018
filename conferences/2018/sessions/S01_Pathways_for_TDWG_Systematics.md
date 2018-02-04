@@ -4,13 +4,13 @@ layout: default
 ---
 
 --- | ---
-**Type:** | Symposium
-**Full Title:** | S01: New Joint Pathways for TDWG and Systematics
-**Short Title:** | TDWG and Systematics
-**Organizer(s):** | [Nico Franz](mailto:nico.franz@asu.edu)  
+Session Type | **Symposium**
+Full Title   | **S01: New Joint Pathways for TDWG and Systematics**
+Short Title  | **TDWG and Systematics**
+Organizer(s) | **[Nico Franz](mailto:nico.franz@asu.edu)**  
 
 
-**Unsolicited contributions considered?** Yes  
+Unsolicited contributions considered? **Yes**  
 
 <!-- **Primary Contact Affiliation/Organisation:** Arizona State University
 **Other Contributors:** 
