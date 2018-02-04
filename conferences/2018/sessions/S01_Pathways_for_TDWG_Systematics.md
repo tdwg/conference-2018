@@ -3,12 +3,12 @@ title: S01 New Joint Pathways for TDWG and Systematics
 layout: default
 ---
 
-<table> 
+<table>
 <tr><td>Session Type</td><td>Symposium</td></tr>
 <tr><td>Full Title</td><td>S01: New Joint Path ways for TDWG and Systematics</td></tr>
 <tr><td>Short Title</td><td>TDWG and Systematics</td></tr>
-<tr><td>Organizer(s) </td><td>[Nico Franz](mailto:nico.franz@asu.edu)</td></tr>
-</table>
+<tr><td>Organizer(s) </td><td><a href="mailto:nico.franz@asu.edu">Nico Franz</a></td></tr>
+</table>  
 
 Unsolicited contributions considered? **Yes**  
 
