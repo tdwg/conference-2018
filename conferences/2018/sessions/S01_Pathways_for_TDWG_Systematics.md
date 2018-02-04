@@ -3,6 +3,7 @@ title: S01 New Joint Pathways for TDWG and Systematics
 layout: default
 ---
 
+--- | ---
 **Type:** | Symposium  
 **Full Title:** | S01: New Joint Pathways for TDWG and Systematics  
 **Short Title:** | TDWG and Systematics  
