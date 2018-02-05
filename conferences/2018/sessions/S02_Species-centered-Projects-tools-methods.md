@@ -3,9 +3,9 @@ title: Species-centered projects, tools and methods
 layout: default
 ---
 
-Type: | **Symposium**
-Full Title: | **S02 - Species-centered projects, tools and methods**
-Short Title: | **Species info**
+Session Type: | **Symposium**
+Full Title:   | **S02 - Species-centered projects, tools and methods**
+Short Title:  | **Species info**
 Organizer(s): | **[Francisco Pando](mailto:pando@rjb.csic.es)**, Real Jardín Botánico-CSIC, Madrid, Spain
   | [Chuck Miller](mailto:Chuck.Miller@mobot.org), Missouri Botanical Garden, Saint Louis, MO, US
   | [Erick Mata](emata@itcr.ac.cr), CIC, Instituto Tecnológico de Costa Rica, San José, Costa Rica
