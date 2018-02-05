@@ -3,41 +3,21 @@ title: Species-centered projects, tools and methods
 layout: default
 ---
 
-**Type:** 
+Type: | **Symposium**
+Full Title: | **Species-centered projects, tools and methods**
+Short Title: | **Species info**
+Primary Contact Name: | **[Francisco Pando](mailto:pando@rjb.csic.es)**, Real Jardín Botánico-CSIC, Madrid, Spain
+  | [Chuck Miller](mailto:Chuck.Miller@mobot.org), Missouri Botanical Garden, Saint Louis, MO, US
+  | [Erick Mata](emata@itcr.ac.cr), CIC, Instituto Tecnológico de Costa Rica, San José, Costa Rica
 
-Symposium
 
-**Full Title:** 
+<p><br />Unsolicited contributions accepted? <strong>Yes</strong></p> 
 
-Species-centered projects, tools and methods
-
-**Short Title:** 
-
-Species info
-
-**Primary Contact Name:** 
-
-Francisco Pando
-
-**Primary Contact Email:** 
-
-[pando@rjb.csic.es](mailto:pando@rjb.csic.es)
-
-**Primary Contact Affiliation/Organisation:** 
-
-Real Jardín Botánico-CSIC, Madrid, Spain
-
-**Other Contributors:** 
-
-Chuck Miller Chuck.Miller@mobot.org Missouri Botanical Garden, Saint Louis, MO, US; Erick Mata emata@itcr.ac.cr CIC, Instituto Tecnológico de Costa Rica, San José, Costa Rica
-
-**How many 80-minute sessions are you requesting?** 1
-
+<!-- **How many 80-minute sessions are you requesting?** 1
 **Is your session open to unsolicited contributions?** Yes
-
 **Technical Requirements:** 
-
 No
+-->
 
 **Abstract:** 
 
