@@ -10,7 +10,7 @@ layout: default
 | Organizer(s):  | **[Nico Franz](mailto:nico.franz@asu.edu), Arizona State University** |  
 
 
-<p>Unsolicited contributions considered? **Yes** </p>
+Unsolicited contributions considered? **Yes**
 
 <!-- **Primary Contact Affiliation/Organisation:** Arizona State University
 **Other Contributors:** 
