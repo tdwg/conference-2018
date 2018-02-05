@@ -8,9 +8,8 @@ layout: default
 | Full Title:    | **S01: New Joint Pathways for TDWG and Systematics** |  
 | Short Title:   | **TDWG and Systematics** |  
 | Organizer(s):  | **[Nico Franz](mailto:nico.franz@asu.edu), Arizona State University** |  
-  
-<br />  
-Unsolicited contributions considered? **Yes**  
+
+<p>Unsolicited contributions considered? **Yes** </p>
 
 <!-- **Primary Contact Affiliation/Organisation:** Arizona State University
 **Other Contributors:** 
