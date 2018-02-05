@@ -9,7 +9,7 @@ layout: default
 | Short Title:   | **TDWG and Systematics** |  
 | Organizer(s):  | **[Nico Franz](mailto:nico.franz@asu.edu), Arizona State University** |  
 
-<p>Unsolicited contributions considered? <strong>Yes</strong>
+<p>Unsolicited contributions considered? <strong>Yes</strong></p>
 
 <!-- **Primary Contact Affiliation/Organisation:** Arizona State University
 **Other Contributors:** 
