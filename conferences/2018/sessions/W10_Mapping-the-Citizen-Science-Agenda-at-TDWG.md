@@ -1,6 +1,6 @@
  
 
-> 1. Names, email addresses, and affiliations of all organizers.
+> 1. Names, email addresses, and affiliations of all Organizer(s)::.
 
 Rob Stevenson
 
@@ -32,7 +32,7 @@ Workshop
 
  
 
-3. 	Whether the organizer(s) will accept unsolicited abstract submissions (vs. inviting all speakers themselves).
+3. 	Whether the Organizer(s): will accept unsolicited abstract submissions (vs. inviting all speakers themselves).
 
 Yes, we will accept unsolicited abstract submissions.
 

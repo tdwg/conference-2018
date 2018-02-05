@@ -1,60 +1,41 @@
-**Type: **Workshop or SPNHC SIG (following symposium S04)
 
-**Full Title:** 
 
-Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience
+Session Type: | **Workshop** (following symposium S04)  
+Full Title:   | **W09 - Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience**  
+Short Title:  | **Implementing Collections Data Quality Feedback**  
+Organizer(s): | **[Deborah Paul](mailto:dpaul@fsu.edu),** iDigBio, Florida State University
+              | **[Nicole Fisher](mailto:Nicole.Fisher@CSIRO.AU),** CSIRO Ecosystems Science
 
-**Short Title:** 
 
-Implementing Collections Data Quality Feedback
+Unsolicited contributions considered?  **No**
 
-**Primary Contact Name:** 
 
-Deborah Paul
-
-Nicole Fisher
-
-**Primary Contact Email:** 
-
-[dpaul@fsu.edu](mailto:dpaul@fsu.edu)
-
-[Nicole.Fisher@CSIRO.AU](mailto:Nicole.Fisher@CSIRO.AU) 
-
-**Primary Contact Affiliation/Organisation:** 
-
-iDigBio, Florida State University
-
-CSIRO Ecosystems Science
-
+<!--
 **How many 80-minute sessions are you requesting?** 2 (can be divided over separate days)
-
-**Is your session open to unsolicited contributions?** No
-
-**Technical Requirements:** 
-
-Theater/classroom seating for symposium; tables/power/working environment (flip chart or marker board) for workshop; usual AV
-
+Technical Requirements: | Theater/classroom seating for symposium; tables/power/working environment (flip chart or marker board) for workshop; usual AV
 **Format Options**:
-
+-
 IF at TDWG, then this whole thing could be either
-
+-
 > 1. Workshop (talks followed by workshop for general audience sharing and to summarize findings)
-
+-
 > 2. Symposium for talks, followed by workshop for general audience sharing and to summarize findings
-
+-
 IF at SPNHC, then
-
+-
 > 1. This is likely best a Symposium, followed by a SPNHC SIG (Special Interest Group Meeting) where everyone interested can then add their experiences and we can summarize findings.
-
-Maybe this is best at SPNHC because we need input from those who are doing the data integration in their collections. However, we need the TDWG audience – to hear the needs / expectations of the collections. Our interests overlap with the TDWG DQ working group – and we have talked to them about our symposium. We trust you, the local organizers to put this where we can best reach both the TDWG and SPNHC audience and best fits in with your other contributions.
-
+-
+Maybe this is best at SPNHC because we need input from those who are doing the data integration in their collections. However, we need the TDWG audience – to hear the needs / expectations of the collections. Our interests overlap with the TDWG DQ working group – and we have talked to them about our symposium. We trust you, the local Organizer(s):: to put this where we can best reach both the TDWG and SPNHC audience and best fits in with your other contributions.
+-
 We note this also aligns as likely appealing to those taking part in the hands-on workshop organized by Laura Russell to help people directly with data mobilization.
-
+-
 Please let us know if we need to submit a separate abstract for the Workshop (if at TDWG) or the SIG (if at SPNHC). It is easy to separate the above abstract into two - one for a symposium, one for the followup workshop / SIG.
-
+-
 **Expected attendance**. 40 – 60? Hard to say.
+-->
 
-**Abstract:** 
+
+## Abstract
 
 [Symposium S04 provided as background] Much data quality (DQ) feedback is now available to data providers from aggregators of collections specimen and related data. Similarly, transcription centres and crowdsourcing platforms also provide data that must be assessed and often manipulated before uploading to a local database and subsequently published with aggregators. In order to facilitate broader DQ information use aggregators (GBIF, ALA, iDigBio, VertNet) and others, through the[ TDWG BDQ Interest Group](https://github.com/tdwg/bdq), are harmonizing the DQ information provided - transforming part of the DQ feedback process. But, collections sharing data face challenges when trying to evaluate and integrate the information changes offered (by aggregators) for given records in local collection management systems and collection databases. Sharing DQ integration experiences can help reveal risks and opportunities. Discovering others have the same conundrums helps develop a community of belonging and may assist in removing duplication of effort. It is important to leverage the knowledge and experience of those who are currently validating data to improve the efficiency of the process. Documenting and classifying these challenges also facilitates motivation and community building by informing those who would tackle these challenges. In this case, talks from aggregators and data providers give all of us a chance to learn from their stories about implementing and integrating DQ feedback.
 
