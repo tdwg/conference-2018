@@ -3,7 +3,7 @@ title: TDWG Session Titles and Abstracts
 layout: default
 ---  
 
-# TDWG Session Titles and Abstracts
+# TDWG Sessions and Abstracts
 
 ## Symposia
 
