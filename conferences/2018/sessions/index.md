@@ -8,9 +8,13 @@ layout: default
 ## Symposia
 
 [S01](https://tdwg.github.io/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](https://tdwg.github.io/conferences/2018/sessions/S01)  
+
 [S02](https://tdwg.github.io/conferences/2018/sessions/S02) | [Species-centered projects, tools and methods](https://tdwg.github.io/conferences/2018/sessions/S02)  
+
 [S03](https://tdwg.github.io/conferences/2018/sessions/S03) | [Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections](https://tdwg.github.io/conferences/2018/sessions/S03)  
+
 [S04](https://tdwg.github.io/conferences/2018/sessions/S04) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/S04)
+
 [S05](https://tdwg.github.io/conferences/2018/sessions/S05) | [The Global Genome Biodiversity Network (GGBN) Standards for Molecular Collections](https://tdwg.github.io/conferences/2018/sessions/S05)
 [S06](https://tdwg.github.io/conferences/2018/sessions/S06) | [Science Powered by Informatics - The Next Steps](https://tdwg.github.io/conferences/2018/sessions/S06)
 [S07](https://tdwg.github.io/conferences/2018/sessions/S07) | [Citizen Science and Biodiversity Informatics for Natural History Collections and Field Observations](https://tdwg.github.io/conferences/2018/sessions/S07)
