@@ -1,4 +1,11 @@
-# Symposia
+---  
+title: TDWG Session Titles and Abstracts
+layout: default
+---  
+
+# TDWG Session Titles and Abstracts
+
+## Symposia
 
 [S01 - New Joint Pathways for TDWG and Systematics](https://tdwg.github.io/conferences/2018/sessions/S01)
 
@@ -30,7 +37,7 @@
 
 [S15 - Biological Interaction Data: towards data standardization](https://tdwg.github.io/conferences/2018/sessions/S15)
 
-# Workshops
+## Workshops
 
 [W01 - Training workshop in auditing and cleaning of biodiversity data](https://tdwg.github.io/conferences/2018/sessions/W01)
 
