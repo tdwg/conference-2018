@@ -23,7 +23,7 @@ layout: default
 [S14](https://tdwg.github.io/conferences/2018/sessions/S14) | [Linking biodiversity data through phylogenetic knowledge](https://tdwg.github.io/conferences/2018/sessions/S14)
 [S15](https://tdwg.github.io/conferences/2018/sessions/S15) | [Biological Interaction Data: towards data standardization](https://tdwg.github.io/conferences/2018/sessions/S15)
 
-
+<p>
 ## Workshops
 
 [W01](https://tdwg.github.io/conferences/2018/sessions/W01) | [Training workshop in auditing and cleaning of biodiversity data](https://tdwg.github.io/conferences/2018/sessions/W01)
