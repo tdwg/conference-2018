@@ -44,7 +44,7 @@ layout: default
 [W01](https://tdwg.github.io/conferences/2018/sessions/W01) | [Training workshop in auditing and cleaning of biodiversity data](https://tdwg.github.io/conferences/2018/sessions/W01)  
 
 <!-- [W02](https://tdwg.github.io/conferences/2018/sessions/W02) | [Service-based content extraction from digitised specimens](https://tdwg.github.io/conferences/2018/sessions/W02)  
-<--  
+-->  
 [W03](https://tdwg.github.io/conferences/2018/sessions/W03) | [Analogue to digital: faster better cheaper](https://tdwg.github.io/conferences/2018/sessions/W03)  
 
 [W04](https://tdwg.github.io/conferences/2018/sessions/W04) | [Next generation biodiversity data: developing an international traits system](https://tdwg.github.io/conferences/2018/sessions/W04)  
