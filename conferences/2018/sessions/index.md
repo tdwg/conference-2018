@@ -1,9 +1,9 @@
 ---  
-title: TDWG Session Titles and Abstracts
+title: TDWG Symposia and Workshops
 layout: default
 ---  
 
-# TDWG Sessions and Abstracts
+# TDWG Symposia and Workshops
 
 ## Symposia
 
