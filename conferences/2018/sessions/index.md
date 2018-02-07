@@ -7,9 +7,9 @@ layout: default
 
 ## Symposia
 
-[S01](https://tdwg.github.io/conferences/2018/sessions/S01) - | [New Joint Pathways for TDWG and Systematics](https://tdwg.github.io/conferences/2018/sessions/S01)  
-[S02](https://tdwg.github.io/conferences/2018/sessions/S02) - | [Species-centered projects, tools and methods](https://tdwg.github.io/conferences/2018/sessions/S02)  
-[S03](https://tdwg.github.io/conferences/2018/sessions/S03) - | [Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections](https://tdwg.github.io/conferences/2018/sessions/S03)  
+[S01](https://tdwg.github.io/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](https://tdwg.github.io/conferences/2018/sessions/S01)  
+[S02](https://tdwg.github.io/conferences/2018/sessions/S02) | [Species-centered projects, tools and methods](https://tdwg.github.io/conferences/2018/sessions/S02)  
+[S03](https://tdwg.github.io/conferences/2018/sessions/S03) | [Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections](https://tdwg.github.io/conferences/2018/sessions/S03)  
 
 [S04 - Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/S04)
 
