@@ -13,9 +13,6 @@ layout: default
 
 [S03](https://tdwg.github.io/conferences/2018/sessions/S03) | [Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections](https://tdwg.github.io/conferences/2018/sessions/S03)  
 
-<!-- [S04](https://tdwg.github.io/conferences/2018/sessions/S04) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/S04)
--->
-
 [S05](https://tdwg.github.io/conferences/2018/sessions/S05) | [The Global Genome Biodiversity Network (GGBN) Standards for Molecular Collections](https://tdwg.github.io/conferences/2018/sessions/S05)  
 
 [S06](https://tdwg.github.io/conferences/2018/sessions/S06) | [Science Powered by Informatics - The Next Steps](https://tdwg.github.io/conferences/2018/sessions/S06)  
@@ -44,9 +41,6 @@ layout: default
 
 [W01](https://tdwg.github.io/conferences/2018/sessions/W01) | [Training workshop in auditing and cleaning of biodiversity data](https://tdwg.github.io/conferences/2018/sessions/W01)  
 
-<!-- [W02](https://tdwg.github.io/conferences/2018/sessions/W02) | [Service-based content extraction from digitised specimens](https://tdwg.github.io/conferences/2018/sessions/W02)  
--->  
-
 [W03](https://tdwg.github.io/conferences/2018/sessions/W03) | [Analogue to digital: faster better cheaper](https://tdwg.github.io/conferences/2018/sessions/W03)  
 
 [W04](https://tdwg.github.io/conferences/2018/sessions/W04) | [Next generation biodiversity data: developing an international traits system](https://tdwg.github.io/conferences/2018/sessions/W04)  
@@ -58,9 +52,6 @@ layout: default
 [W07](https://tdwg.github.io/conferences/2018/sessions/W07) | [Improving research linking and visibility of specimens and physical samples through standardised identifiers and metadata](https://tdwg.github.io/conferences/2018/sessions/W07)  
 
 [W08](https://tdwg.github.io/conferences/2018/sessions/W08) | [Standardizing data to Darwin Core using R: A hands-on workshop with lessons learned from the TrIAS project](https://tdwg.github.io/conferences/2018/sessions/W08)  
-
-<!-- [W09](https://tdwg.github.io/conferences/2018/sessions/W09) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/W09)  
--->  
 
 [W10](https://tdwg.github.io/conferences/2018/sessions/W10) | [Mapping the Citizen Science Agenda at TDWG with a focus on the PPSR core and Data Quality](https://tdwg.github.io/conferences/2018/sessions/W10)  
 
@@ -80,4 +71,10 @@ layout: default
 
 [W18](https://tdwg.github.io/conferences/2018/sessions/W18) | [Names for Biodiversity](https://tdwg.github.io/conferences/2018/sessions/W18)  
 
+
+<!-- 
+[S04](https://tdwg.github.io/conferences/2018/sessions/S04) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/S04)
+[W02](https://tdwg.github.io/conferences/2018/sessions/W02) | [Service-based content extraction from digitised specimens](https://tdwg.github.io/conferences/2018/sessions/W02)  
+[W09](https://tdwg.github.io/conferences/2018/sessions/W09) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/W09)  
+-->  
 
