@@ -15,6 +15,7 @@ layout: default
 
 <!-- [S04](https://tdwg.github.io/conferences/2018/sessions/S04) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/S04)
 -->
+
 [S05](https://tdwg.github.io/conferences/2018/sessions/S05) | [The Global Genome Biodiversity Network (GGBN) Standards for Molecular Collections](https://tdwg.github.io/conferences/2018/sessions/S05)  
 
 [S06](https://tdwg.github.io/conferences/2018/sessions/S06) | [Science Powered by Informatics - The Next Steps](https://tdwg.github.io/conferences/2018/sessions/S06)  
@@ -45,6 +46,7 @@ layout: default
 
 <!-- [W02](https://tdwg.github.io/conferences/2018/sessions/W02) | [Service-based content extraction from digitised specimens](https://tdwg.github.io/conferences/2018/sessions/W02)  
 -->  
+
 [W03](https://tdwg.github.io/conferences/2018/sessions/W03) | [Analogue to digital: faster better cheaper](https://tdwg.github.io/conferences/2018/sessions/W03)  
 
 [W04](https://tdwg.github.io/conferences/2018/sessions/W04) | [Next generation biodiversity data: developing an international traits system](https://tdwg.github.io/conferences/2018/sessions/W04)  
@@ -59,6 +61,7 @@ layout: default
 
 <!-- [W09](https://tdwg.github.io/conferences/2018/sessions/W09) | [Challenges for Implementing Collections Data Quality Feedback: synthesizing the community experience](https://tdwg.github.io/conferences/2018/sessions/W09)  
 -->  
+
 [W10](https://tdwg.github.io/conferences/2018/sessions/W10) | [Mapping the Citizen Science Agenda at TDWG with a focus on the PPSR core and Data Quality](https://tdwg.github.io/conferences/2018/sessions/W10)  
 
 [W11](https://tdwg.github.io/conferences/2018/sessions/W11) | [Workshop of the TDWG Data Quality Interest Group](https://tdwg.github.io/conferences/2018/sessions/W11)  
