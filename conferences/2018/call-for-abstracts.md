@@ -1,6 +1,6 @@
 ---
 title: Call for Abstracts
-layout: default
+layout: tdwg2018
 ---  
 
 Dear Colleagues,
@@ -35,7 +35,6 @@ Shelley James
 
 Gail Kampmeier
 
-Program Committee Co-Chairs 
+Program Committee Co-Chairs
 
-[conference@tdwg.org](mailto:conference@tdwg.org) 
-
+[conference@tdwg.org](mailto:conference@tdwg.org)
