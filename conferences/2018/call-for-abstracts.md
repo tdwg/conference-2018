@@ -3,6 +3,8 @@ title: Call for Abstracts
 layout: tdwg2018
 ---  
 
+# Call for abstracts
+
 Dear Colleagues,
 
 We are excited to announce the [list of accepted workshops and symposia](https://tdwg.github.io/conferences/2018/sessions/index) for [TDWG18](http://spnhc-tdwg2018.nz/), which will be held jointly with the Society for the Preservation of Natural History Collections (SPNHC) in Dunedin, NZ, 25 August–1 September, and to make the call for individual contributions to be published in *[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)*.  Instructions for submitting abstracts may be found [here](https://tdwg.github.io/conferences/2018/instructions-for-authors). Deadline for abstract submission is **12 March 2018**. Abstracts are required for all oral presentations, computer demonstrations, and posters. These categories are described below.
