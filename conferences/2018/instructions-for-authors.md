@@ -16,6 +16,7 @@ layout: default
    a. If you are an invited speaker for a symposium or workshop in TDWG, select it from the options in the list.  
    b. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers.  
    c. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".  
+   
 ![](images/image_1.png)  
 
 5. Next, fill in your abstract's metadata from the list at the left by hovering over a category, and then clicking on the pencil icon.  
