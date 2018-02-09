@@ -15,35 +15,35 @@ layout: default
 
 ![](images/image_0.png)
 
-<sub>    1. If you are an invited speaker for a symposium or workshop in TDWG, select it from the options in the list.  
+1. If you are an invited speaker for a symposium or workshop in TDWG, select it from the options in the list.  
 
-<sub>    2. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers. 
+2. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers. 
 
-<sub>    3. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".
+3. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".
 
 ![](images/image_1.png)
 
 5. Next, fill in your abstract's metadata from the list at the left by hovering over a category, and then clicking on the pencil icon. 
 
-<sub>    4. The only mandatory fields are "Title", "Abstract", "Keywords", and "Presenting Author". 
+4. The only mandatory fields are "Title", "Abstract", "Keywords", and "Presenting Author". 
 
-<sub>    5. Titles should have all major words begin with a capital letter; please do not use all uppercase in your title. 
+5. Titles should have all major words begin with a capital letter; please do not use all uppercase in your title. 
 
-<sub>    6. The submitting author and affiliation are taken from the profile of the logged-in user.
+6. The submitting author and affiliation are taken from the profile of the logged-in user.
 
-<sub>    7. More authors can be added by clicking the icon beside "Authors" in the left-side navigation panel. Be sure to add affiliations for all authors
+7. More authors can be added by clicking the icon beside "Authors" in the left-side navigation panel. Be sure to add affiliations for all authors
 
-<sub>    8. The corresponding author and the ordering of authors can be changed from the same menu. The corresponding author must be available to communicate about the abstract until final acceptance for publication. The presenting author is the person who will be delivering the talk/demonstration at the SPNHC or TDWG meeting.
+8. The corresponding author and the ordering of authors can be changed from the same menu. The corresponding author must be available to communicate about the abstract until final acceptance for publication. The presenting author is the person who will be delivering the talk/demonstration at the SPNHC or TDWG meeting.
 
-<sub>    9. The presenting author must register and attend the meeting.
+9. The presenting author must register and attend the meeting.
 
 6. Submissions are limited to 600 words written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline. 
 
-<sub>    10. Please write for a general audience with no unexplained jargon. 
+10. Please write for a general audience with no unexplained jargon. 
 
-<sub>    11. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF). 
+11. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF). 
 
-<sub>    12. Please proofread your submission carefully.
+12. Please proofread your submission carefully.
 
 7. You may add references (not included in word count), one figure, and one table by clicking on the appropriate icon. You may also upload supplementary materials associated with the abstract.
 
@@ -57,11 +57,11 @@ layout: default
 
 ![](images/image_2.jpg)
 
-<sub>    13. The fourth and final step asks you to assign categories to your submission; this step is optional. 
+13. The fourth and final step asks you to assign categories to your submission; this step is optional. 
 
-<sub>    14. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further. 
+14. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further. 
 
-<sub>    15. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
+15. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
 
 12. If at any time you need further assistance, check this [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal's technical staff via the system. Click "Helpdesk" on the top navigation bar to open a new window with an email form for you to fill in.![](images/image_3.jpg)
 
