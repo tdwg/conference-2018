@@ -65,6 +65,8 @@ layout: default
 
 12. If at any time you need further assistance, check this [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal's technical staff via the system. Click "Helpdesk" on the top navigation bar to open a new window with an email form for you to fill in.![](images/image_3.jpg)
 
+
+
 ### ARPHA-related FAQs
 
 **What is a collection? What is a collection editor?**
