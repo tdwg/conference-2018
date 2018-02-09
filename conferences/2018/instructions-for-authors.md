@@ -3,9 +3,9 @@ title: Instructions for Authors
 layout: default
 ---  
 
-# Instructions for Abstract Submission
+# Instructions for Abstract Submission  
 
-> 1. **Log in** or register at [https://biss.pensoft.net/](https://biss.pensoft.net/)**
+> 1. **Log in** or register at [https://biss.pensoft.net/](https://biss.pensoft.net/)
 
 > 2. **If you are starting a new abstract**, click the "Start SPNHC+TDWG 2018 Conference Abstract" button. Clicking this button takes you to the ARPHA writing tool and creates a *new* Untitled abstract with some of the author metadata you used to create your account. 
 
