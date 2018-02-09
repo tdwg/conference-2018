@@ -1,33 +1,33 @@
 ---
 title: Instructions for Authors
-layout: default
+layout: tdwg2018
 ---  
 
 # Instructions for Abstract Submission  
 
 1. **Log in** or register at [https://biss.pensoft.net/](https://biss.pensoft.net/)  
 
-2. **If you are starting a new abstract**, click the "Start SPNHC+TDWG 2018 Conference Abstract" button. Clicking this button takes you to the ARPHA writing tool and creates a *new* Untitled abstract with some of the author metadata you used to create your account. 
+2. **If you are starting a new abstract**, click the "Start SPNHC+TDWG 2018 Conference Abstract" button. Clicking this button takes you to the ARPHA writing tool and creates a *new* Untitled abstract with some of the author metadata you used to create your account.
 
-3. **If you have already started an abstract** and are coming back to work on it, log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of "My recent manuscripts." Click on your manuscript title, or click on "See More" to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php) of all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you can delete it here. You can also start new abstracts here, but you will need to specify the journal (BISS) and the manuscript type (conference abstract). 
+3. **If you have already started an abstract** and are coming back to work on it, log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of "My recent manuscripts." Click on your manuscript title, or click on "See More" to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php) of all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you can delete it here. You can also start new abstracts here, but you will need to specify the journal (BISS) and the manuscript type (conference abstract).
 
-4. Click "Collections" on the top navigation bar of your manuscript (top right of figure below). This is where you find the conference (SPNHC or TDWG 2018) and subcollection (includes topics for SPNHC and list of symposia, workshops, and other contributions for TDWG) to which you are submitting your abstract. This step is critical as your abstract cannot be directed to the proper editors without a collection/subcollection designation. 
+4. Click "Collections" on the top navigation bar of your manuscript (top right of figure below). This is where you find the conference (SPNHC or TDWG 2018) and subcollection (includes topics for SPNHC and list of symposia, workshops, and other contributions for TDWG) to which you are submitting your abstract. This step is critical as your abstract cannot be directed to the proper editors without a collection/subcollection designation.
 
 ![](images/image_0.png)
 
 1. If you are an invited speaker for a symposium or workshop in TDWG, select it from the options in the list.  
 
-2. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers. 
+2. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers.
 
 3. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".
 
 ![](images/image_1.png)
 
-5. Next, fill in your abstract's metadata from the list at the left by hovering over a category, and then clicking on the pencil icon. 
+5. Next, fill in your abstract's metadata from the list at the left by hovering over a category, and then clicking on the pencil icon.
 
-4. The only mandatory fields are "Title", "Abstract", "Keywords", and "Presenting Author". 
+4. The only mandatory fields are "Title", "Abstract", "Keywords", and "Presenting Author".
 
-5. Titles should have all major words begin with a capital letter; please do not use all uppercase in your title. 
+5. Titles should have all major words begin with a capital letter; please do not use all uppercase in your title.
 
 6. The submitting author and affiliation are taken from the profile of the logged-in user.
 
@@ -37,11 +37,11 @@ layout: default
 
 9. The presenting author must register and attend the meeting.
 
-6. Submissions are limited to 600 words written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline. 
+6. Submissions are limited to 600 words written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.
 
-10. Please write for a general audience with no unexplained jargon. 
+10. Please write for a general audience with no unexplained jargon.
 
-11. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF). 
+11. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF).
 
 12. Please proofread your submission carefully.
 
@@ -51,15 +51,15 @@ layout: default
 
 9. When you are ready to submit your abstract, click "Submit for Technical Review." This will send the manuscript to the organizers of your session, who will review it for relevance. You will receive a confirmation email and the status of the manuscript will say "in pre-submission review." **The deadline for completing this step is 12 March 2018**.
 
-10. The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision. 
+10. The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision.
 
-11. **Once the abstract is accepted**, the 'Submit to the journal' button becomes visible in the ARPHA Writing Tool. You need to click this button and go through a checklist of submission steps. 
+11. **Once the abstract is accepted**, the 'Submit to the journal' button becomes visible in the ARPHA Writing Tool. You need to click this button and go through a checklist of submission steps.
 
 ![](images/image_2.jpg)
 
-13. The fourth and final step asks you to assign categories to your submission; this step is optional. 
+13. The fourth and final step asks you to assign categories to your submission; this step is optional.
 
-14. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further. 
+14. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further.
 
 15. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
 
@@ -71,7 +71,7 @@ layout: default
 
 **What is a collection? What is a collection editor?**
 
-Pensoft allows articles to be grouped into "collections" (typically around a theme). The TDWG 2018 proceedings is a collection as is SPNHC 2018, and every workshop and symposium is a sub-collection. You are a collection editor if you are the primary contact (and sometimes those listed as "contributors") for your workshop/symposium. 
+Pensoft allows articles to be grouped into "collections" (typically around a theme). The TDWG 2018 proceedings is a collection as is SPNHC 2018, and every workshop and symposium is a sub-collection. You are a collection editor if you are the primary contact (and sometimes those listed as "contributors") for your workshop/symposium.
 
 **How does the editing process work?**
 
@@ -96,4 +96,3 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 **What if I don't see my abstract anywhere?**
 
 It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case. Otherwise, communicate with the help desk to try to resolve technical issues or with conference organizers for content/meeting-related questions.
-

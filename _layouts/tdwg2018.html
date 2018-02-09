@@ -1,16 +1,29 @@
+
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!--[if !IE]><!-->
+<html lang="en-US">
+    <!--<![endif]-->
+    <!--[if IE 6 ]><html lang="en-US" class="ie ie6"><![endif]-->
+    <!--[if IE 7 ]><html lang="en-US" class="ie ie7"><![endif]-->
+    <!--[if IE 8 ]><html lang="en-US" class="ie ie8"><![endif]-->
+    {% include tdwg2018-head.html %}
+    <body class="Page" dir="ltr">
+        {% include tdwg2018-header.html %}
+        <div class="main" role="main">
+        	<div class="inner typography line">
+        		<aside class="sidebar unit size1of4">
+                    {% include tdwg2018-sidebar.html %}
+                </aside>
 
-  {% include tdwg2018-head.html %}
-
-  <body>
-    {% include tdwg2018-header.html %}
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-  </body>
-
+                <div class="content-container unit size3of4 lastUnit">
+                	<article>
+                		{{ content }}
+                	</article>
+                </div>
+        	</div>
+        </div>
+        {% include tdwg2018-footer.html %}
+        <script type="text/javascript" src="http://spnhc-tdwg2018.nz/framework/thirdparty/jquery/jquery.js?m=1496008436"></script>
+        <script type="text/javascript" src="http://spnhc-tdwg2018.nz/themes/spnhc/javascript/script.js"></script>
+    </body>
 </html>
