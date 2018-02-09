@@ -33,8 +33,8 @@ layout: tdwg2018
 6) Submissions are limited to 600 words written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.  
    a. Please write for a general audience with no unexplained jargon.  
    b. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF).  
-   c. If you include references, create the reference list first before linking it to your text (see [https://arpha.pensoft.net/tips/Cite-references](https://arpha.pensoft.net/tips/Cite-references)).
-   d. Please proofread your submission carefully.
+   c. If you include references, create the reference list first before linking it to your text (see [https://arpha.pensoft.net/tips/Cite-references](https://arpha.pensoft.net/tips/Cite-references)).   
+   d. Please proofread your submission carefully.   
 
 7) You may add references (not included in word count), one figure, and one table by clicking on the appropriate icon. You may also upload supplementary materials associated with the abstract.  
 
