@@ -1,8 +1,139 @@
-table {
-    border-spacing: 10px;
-    border-collapse: separate;
+header.header {
+    background: #7391a9;
 }
 
-table td {
+.tablet-nav .header .inner {
+    padding-top: 20px;
+}
+.header .inner {
+    padding-top: 20px;
+}
+
+.inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.wrapper {
+    max-width: calc(1100px - (30px * 2));
+}
+
+header .inner:after, footer:after {
+    height: 0;
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+}
+
+.header .inner .unit {
+    position: relative;
+}
+
+.unit {
+    padding: 0 10px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.line, .lastUnit {
+    overflow: hidden;
+    padding: 0 30px;
+}
+
+header .brand, header .brand:hover {
+    float: left;
+    color: #fff;
+    display: inline-block;
+}
+body a {
+    text-decoration: none;
+}
+
+.brand img {
+    width: 200px;
+    display: inline-block;
+    margin-right: 60px;
     vertical-align: top;
+}
+
+header .brand, header .brand:hover {
+    float: left;
+    color: #fff;
+    display: inline-block;
+}
+
+.brand .brand-header {
+    display: inline-block;
+    margin-top: 48px;
+}
+
+.brand h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 48px;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    line-height: 1em;
+}
+
+.brand h2 {
+    font-size: 20px;
+}
+
+.tablet-nav .header .primary ul {
+    float: left;
+    clear: both;
+    position: relative;
+    margin: 20px 0 0 -13px;
+    white-space: nowrap;
+    right: auto;
+}
+.header .primary {
+    padding: 10px 30px 0 30px;
+}
+
+nav ul, nav li {
+    margin: 0;
+    list-style: none;
+    list-style-image: none;
+}
+
+.tablet-nav .header .primary ul li {
+    white-space: nowrap;
+}
+
+.header .primary li.current {
+    border-bottom: 5px solid #d39f80;
+}
+
+.header .primary li {
+    float: left;
+    margin: 0 5px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.tablet-nav .header .primary ul li a {
+    -moz-transition: none;
+    -webkit-transition: none;
+    transition: none;
+}
+.header .primary li.section a, .header .primary li.current a {
+    color: #fff;
+}
+.search-bar form input.action, .header .primary li a, .footer a {
+    -moz-transition: color 0.2s;
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+}
+.header .primary li a {
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    padding: 6px 8px;
+    font-weight: 400;
+    display: block;
 }
