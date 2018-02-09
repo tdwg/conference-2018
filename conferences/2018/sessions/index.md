@@ -7,7 +7,7 @@ layout: default
 
 ## Symposia
 
-[S01](https://tdwg.github.io/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](https://tdwg.github.io/conferences/2018/sessions/S01)  (open)
+[S01](https://tdwg.github.io/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](https://tdwg.github.io/conferences/2018/sessions/S01) | Open
 
 [S02](https://tdwg.github.io/conferences/2018/sessions/S02) | [Species-centered projects, tools and methods](https://tdwg.github.io/conferences/2018/sessions/S02)  
 
