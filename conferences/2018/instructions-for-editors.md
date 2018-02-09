@@ -37,6 +37,8 @@ For help: If something isn't working as you think it should, or if you need assi
 
 **Additional Notes:**
 
-* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non active links, incorrect citing of the references (if any), and non-expansion of acronyms. For convenience there is a [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option that both you and the authors can use when exchanging revised versions.
+* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non active links, incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms.
 
-* It is your responsibility as editors to ensure high quality abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/)
+* For convenience there is a [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option that both you and the authors can use when exchanging revised versions.
+
+* It is your responsibility as editors to ensure high quality abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 

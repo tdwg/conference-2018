@@ -7,8 +7,8 @@ layout: tdwg2018
 
 ## Symposia
 
-[S01](/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](/conferences/2018/sessions/S01)  
-[S02](/conferences/2018/sessions/S02) | [Species-centered projects, tools and methods](/conferences/2018/sessions/S02)  
+[S01](/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](/conferences/2018/sessions/S01) | Open
+[S02](/conferences/2018/sessions/S02) | [Species-centered projects, tools and methods](/conferences/2018/sessions/S02) | Open
 [S03](/conferences/2018/sessions/S03) | [Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections](/conferences/2018/sessions/S03)  
 [S05](/conferences/2018/sessions/S05) | [The Global Genome Biodiversity Network (GGBN) Standards for Molecular Collections](/conferences/2018/sessions/S05)  
 [S06](/conferences/2018/sessions/S06) | [Science Powered by Informatics - The Next Steps](/conferences/2018/sessions/S06)  
@@ -22,8 +22,8 @@ layout: tdwg2018
 [S14](/conferences/2018/sessions/S14) | [Linking biodiversity data through phylogenetic knowledge](/conferences/2018/sessions/S14)  
 [S15](/conferences/2018/sessions/S15) | [Biological Interaction Data: towards data standardization](/conferences/2018/sessions/S15)  
 
+<br />
 
-<br/>
 ## Workshops
 
 [W01](/conferences/2018/sessions/W01) | [Training workshop in auditing and cleaning of biodiversity data](/conferences/2018/sessions/W01)  

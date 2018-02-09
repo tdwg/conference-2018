@@ -25,7 +25,7 @@ We will provide an opportunity for a limited number of live computer demonstrati
 
 **Posters**
 
-We will provide dedicated space for posters, and at least one dedicated poster session on the agenda. Instructions on poster size will be posted nearer the conference.
+We will provide dedicated space for posters. Instructions on poster size will be posted nearer the conference.
 
 **Wild Ideas**
 
