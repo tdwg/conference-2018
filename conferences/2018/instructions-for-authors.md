@@ -54,7 +54,7 @@ layout: default
 
 
 
-### ARPHA-related FAQs
+### **ARPHA-related FAQs**
 
 **What is a collection? What is a collection editor?**
 
