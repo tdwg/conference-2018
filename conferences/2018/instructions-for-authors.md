@@ -24,23 +24,23 @@ layout: tdwg2018
 
 5) Next, fill in your abstract's metadata from the list at the left by hovering over a category, and then clicking on the pencil icon.  
    a. The only mandatory fields are "Title", "Abstract", "Keywords", and "Presenting Author".  
-   b. Titles should have all major words begin with a capital letter; please do not use all uppercase in your title.  
+   b. Titles should have all major words begin with a capital letter (Title Case); *please do not use all uppercase in your title.*  
    c. The submitting author and affiliation are taken from the profile of the logged-in user.  
    d. More authors can be added by clicking the icon beside "Authors" in the left-side navigation panel. Be sure to add affiliations for all authors.  
    e. The corresponding author and the ordering of authors can be changed from the same menu. The corresponding author must be available to communicate about the abstract until final acceptance for publication. The presenting author is the person who will be delivering the talk/demonstration at the SPNHC or TDWG meeting.  
-   f. The presenting author must register and attend the meeting.  
+   f. The presenting author **must** register and attend the meeting.  
 
-6) Submissions are limited to 600 words written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.  
+6) Submissions are limited to 600 words (body of abstract) written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.  
    a. Please write for a general audience with no unexplained jargon.  
    b. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF).  
    c. If you include references, create the reference list first before linking it to your text (see [https://arpha.pensoft.net/tips/Cite-references](https://arpha.pensoft.net/tips/Cite-references)).   
-   d. Please proofread your submission carefully.   
+   d. Please proofread your submission carefully. Once it is accepted, it cannot be changed.   
 
 7) You may add references (not included in word count), one figure, and one table by clicking on the appropriate icon. You may also upload supplementary materials associated with the abstract.  
 
 8) Click "Validate." This will ensure that mandatory fields are filled in and the abstract is assigned to a collection. Be sure to finish this step, even if you and your co-authors are not finished writing or reviewing your submission.
 
-9) When you are ready to submit your abstract, click "Submit for Technical Review." This will send the manuscript to the organizers of your session, who will review it for relevance. You will receive a confirmation email and the status of the manuscript will say "in pre-submission review." **The deadline for completing this step is 12 March 2018**.  
+9) **When you are ready to submit your abstract**, click "Submit for Technical Review." This will send the manuscript to the organizers of your session, who will review it for relevance. You will receive a confirmation email and the status of the manuscript will say "in pre-submission review." **The deadline for completing this step is 12 March 2018**.  
 
 10) The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision.
 
