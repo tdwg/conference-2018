@@ -3,7 +3,7 @@ title: Instructions for Editors
 layout: default
 ---  
 
-# Instructions for Workshop and Symposium Organizers to Manage Submissions Using ARPHA
+# Instructions for Editors Managing Submissions Using ARPHA
 
 A note on terminology: TDWG 2018 (a collection) has the following subcollections: 16 workshops, 14 symposia; posters; computer demonstrations; and contributed oral presentations, which is a catch-all for presentations that don't have a home in any of the workshops or symposia. In addition, interest/task group (IG/TG) meetings (similar to SPNHC special interest groups or SIGs) will also be scheduled In the Proceedings, each of these session will be represented by a "subcollection". Therefore, if you are a workshop or symposium organizer, you are considered to be a subcollection editor in ARPHA. SPNHC 2018 has its own collection and subcollections, growing its symposia and workshops organically from submissions to the themes (=subcollections) listed under its collection.
 
