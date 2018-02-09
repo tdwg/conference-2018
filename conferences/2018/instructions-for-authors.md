@@ -11,8 +11,10 @@ layout: default
 
 3. **If you have already started an abstract** and are coming back to work on it, log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of "My recent manuscripts." Click on your manuscript title, or click on "See More" to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php) of all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you can delete it here. You can also start new abstracts here, but you will need to specify the journal (BISS) and the manuscript type (conference abstract).  
 
-4. Click "Collections" on the top navigation bar of your manuscript (top right of figure below). This is where you find the conference (SPNHC or TDWG 2018) and subcollection (includes topics for SPNHC and list of symposia, workshops, and other contributions for TDWG) to which you are submitting your abstract. This step is critical as your abstract cannot be directed to the proper editors without a collection/subcollection designation.  
+4. Click "Collections" on the top navigation bar of your manuscript (top right of figure below). This is where you find the conference (SPNHC or TDWG 2018) and subcollection (includes topics for SPNHC and list of symposia, workshops, and other contributions for TDWG) to which you are submitting your abstract. This step is critical as your abstract cannot be directed to the proper editors without a collection/subcollection designation. 
+
 ![](images/image_0.png)  
+
    a. If you are an invited speaker for a symposium or workshop in TDWG, select it from the options in the list.  
    b. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers.  
    c. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".  
@@ -50,7 +52,9 @@ layout: default
 
 15. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
 
-12. If at any time you need further assistance, check this [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal's technical staff via the system. Click "Helpdesk" on the top navigation bar to open a new window with an email form for you to fill in.![](images/image_3.jpg)
+12. If at any time you need further assistance, check this [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal's technical staff via the system. Click "Helpdesk" on the top navigation bar to open a new window with an email form for you to fill in.
+
+![](images/image_3.jpg)
 
 
 
