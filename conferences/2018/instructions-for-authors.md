@@ -46,11 +46,11 @@ layout: default
 
 ![](images/image_2.jpg)
 
-13. The fourth and final step asks you to assign categories to your submission; this step is optional. 
+   a. The fourth and final step asks you to assign categories to your submission; this step is optional. 
 
-14. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further. 
+   b. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further. 
 
-15. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
+   c. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
 
 12. If at any time you need further assistance, check this [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal's technical staff via the system. Click "Helpdesk" on the top navigation bar to open a new window with an email form for you to fill in.
 
