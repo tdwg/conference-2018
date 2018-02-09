@@ -9,7 +9,7 @@ A note on terminology: TDWG 2018 (a collection) has the following subcollections
 
 For help: If something isn't working as you think it should, or if you need assistance, you can email Pensoft's technical staff by clicking "Helpdesk" on the top navigation bar. If you have suggestions for how the workflow can be improved, please record them so that you can respond when we canvass authors and editors for feedback.
 
-> 1. Please look at [https://tdwg.github.io/conferences/2018/call-for-abstracts/instructions/](https://tdwg.github.io/conferences/2018/call-for-abstracts/instructions/). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you.
+> 1. Please look at [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you.
 
 > 2. Please make sure the submitting author included additional and relevant metadata. In particular, affiliations and email addresses for all authors should be present.
 

@@ -1,5 +1,5 @@
 ---
-title: Instructions for Abstract Submission
+title: Instructions for Authors
 layout: default
 ---  
 
@@ -73,7 +73,7 @@ layout: default
 
 **How does the editing process work?**
 
-> Please refer to the [instructions for editors](https://tdwg.github.io/conferences/2018/call-for-abstracts/instructions-for-editors/).
+> Please refer to the [instructions for editors](https://tdwg.github.io/conferences/2018/instructions-for-editors/).
 
 **Where do I enter the state or province under address as an author?**
 
