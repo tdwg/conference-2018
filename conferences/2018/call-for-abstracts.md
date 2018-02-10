@@ -33,9 +33,8 @@ Towards the end of the conference, we are planning a "Wild Ideas" session of lig
 
 Best,
 
+Gail Kampmeier<br/>
 Shelley James
-
-Gail Kampmeier
 
 Program Committee Co-Chairs
 
