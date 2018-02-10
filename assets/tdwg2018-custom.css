@@ -1,138 +1,53 @@
-header.header {
-    background: #7391a9;
+/*
+	LEVEL ONE
+*/
+.symposia-and-workshops-nav {
+    clear:both;
+    margin-bottom: 80px;
 }
 
-.tablet-nav .header .inner {
-    padding-top: 20px;
-}
-.header .inner {
-    padding-top: 20px;
-}
-
-.inner {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 30px;
-}
-
-.wrapper {
-    max-width: calc(1100px - (30px * 2));
-}
-
-header .inner:after, footer:after {
-    height: 0;
-    content: ".";
-    display: block;
+article h2, article table {
     clear: both;
+}
+ul.dropdown                         { position: relative; list-style: none; margin: 0;}
+ul.dropdown li                      { font-weight: bold; float: left; zoom: 1; background: #eee; list-style: none}
+ul.dropdown a:hover		            { color: #000; }
+ul.dropdown a:active {
+    color: #ffa500;
+}
+ul.dropdown>li {
+    margin-right: 6px;
+}
+ul.dropdown li a                    { display: block; padding: 4px 8px; border-right: 1px solid #333;
+	 								  color: #7391A9; }
+ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE */
+ul.dropdown li.hover,
+ul.dropdown li:hover                { background: #F3D673; color: black; position: relative; }
+ul.dropdown li.hover a              { color: black; }
+
+
+/*
+	LEVEL TWO
+*/
+ul.dropdown ul {
+    width: 400px;
     visibility: hidden;
-}
-
-.header .inner .unit {
-    position: relative;
-}
-
-.unit {
-    padding: 0 10px;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-}
-.line, .lastUnit {
-    overflow: hidden;
-    padding: 0 30px;
-}
-
-header .brand, header .brand:hover {
-    float: left;
-    color: #fff;
-    display: inline-block;
-}
-body a {
-    text-decoration: none;
-}
-
-.brand img {
-    width: 200px;
-    display: inline-block;
-    margin-right: 60px;
-    vertical-align: top;
-}
-
-header .brand, header .brand:hover {
-    float: left;
-    color: #fff;
-    display: inline-block;
-}
-
-.brand .brand-header {
-    display: inline-block;
-    margin-top: 48px;
-}
-
-.brand h1 {
+    position: absolute;
+    top: 100%;
+    left: 0;
     margin: 0;
-    padding: 0;
-    font-size: 48px;
-    color: #fff;
-    font-weight: 600;
-    line-height: 1em;
+    max-height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
+ul.dropdown ul li 					{ font-weight: normal; background: #f6f6f6; color: #000;
+									  border-bottom: 1px solid #ccc; float: none; margin: 0;}
 
-.brand h2 {
-    font-size: 20px;
-}
+                                    /* IE 6 & 7 Needs Inline Block */
+ul.dropdown ul li a					{ border-right: none; width: 100%; display: inline-block; }
 
-.tablet-nav .header .primary ul {
-    float: left;
-    clear: both;
-    position: relative;
-    margin: 20px 0 0 -13px;
-    white-space: nowrap;
-    right: auto;
-}
-.header .primary {
-    padding: 10px 30px 0 30px;
-}
-
-nav ul, nav li {
-    margin: 0;
-    list-style: none;
-    list-style-image: none;
-}
-
-.tablet-nav .header .primary ul li {
-    white-space: nowrap;
-}
-
-.header .primary li.current {
-    border-bottom: 5px solid #d39f80;
-}
-
-.header .primary li {
-    float: left;
-    margin: 0 5px;
-    position: relative;
-    white-space: nowrap;
-}
-
-.tablet-nav .header .primary ul li a {
-    -moz-transition: none;
-    -webkit-transition: none;
-    transition: none;
-}
-.header .primary li.section a, .header .primary li.current a {
-    color: #fff;
-}
-.search-bar form input.action, .header .primary li a, .footer a {
-    -moz-transition: color 0.2s;
-    -webkit-transition: color 0.2s;
-    transition: color 0.2s;
-}
-.header .primary li a {
-    color: #fff;
-    font-size: 15px;
-    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
-    padding: 6px 8px;
-    font-weight: 400;
-    display: block;
-}
+/*
+	LEVEL THREE
+*/
+ul.dropdown ul ul 					{ left: 100%; top: 0; }
+ul.dropdown li:hover > ul 			{ visibility: visible; }
