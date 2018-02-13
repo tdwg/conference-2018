@@ -17,7 +17,7 @@ The backbone of a TDWG meeting are its symposia and workshops. At TDWG, a sympos
 
 **Contributed Oral Presentations**
 
-If no workshop or symposium is suitable, you can submit your abstract to the "Contributed Oral Presentation" track. Accepted abstracts will be arranged so that talks on similar subjects are in the same session. This year, contributed oral presentations will be restricted to 10 minutes (including changing speakers) to accommodate the time constraints of this joint meeting.
+If no workshop or symposium is suitable, you can submit your abstract to the "Contributed Oral Presentation" track. Accepted abstracts will be arranged so that talks on similar subjects are in the same session. 
 
 **Computer demonstrations**
 
