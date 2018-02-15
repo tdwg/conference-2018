@@ -7,7 +7,7 @@ layout: tdwg2018
 
 ## Symposia
 
-[S01](/conferences/2018/sessions/S01) | [New Joint Pathways for TDWG and Systematics](/conferences/2018/sessions/S01) | &#10003;
+[S01](/conferences/2018/sessions/S01) | [New Joint Pathways for the Biodiversity Data Community and Systematists](/conferences/2018/sessions/S01) | &#10003;
 [S02](/conferences/2018/sessions/S02) | [Species-centered projects, tools and methods](/conferences/2018/sessions/S02) | &#10003;
 [S03](/conferences/2018/sessions/S03) | [Biodiversity Heritage Library: Strategies for Improving Research Efficiency and Delivering Biodiversity Data through Digital Library Collections](/conferences/2018/sessions/S03)
 [S05](/conferences/2018/sessions/S05) | [The Global Genome Biodiversity Network (GGBN) Standards for Molecular Collections](/conferences/2018/sessions/S05)  
@@ -29,7 +29,7 @@ layout: tdwg2018
 ## Workshops
 
 [W01](/conferences/2018/sessions/W01) | [Training workshop in auditing and cleaning of biodiversity data](/conferences/2018/sessions/W01) |
-[W03](/conferences/2018/sessions/W03) | [Analogue to digital: faster better cheaper](/conferences/2018/sessions/W03) | &#10003;
+[W03](/conferences/2018/sessions/W03) | [Analogue 2 digital: faster better cheaper](/conferences/2018/sessions/W03) | &#10003;
 [W04](/conferences/2018/sessions/W04) | [Next generation biodiversity data: developing an international traits system](/conferences/2018/sessions/W04) |
 [W05](/conferences/2018/sessions/W05) | [Developing a mechanism to coordinate planning and investment in biodiversity informatics](/conferences/2018/sessions/W05) |
 [W06](/conferences/2018/sessions/W06) | [The Living Atlases community in action: demonstration of real implementations of Atlas of Living Australia modules](/conferences/2018/sessions/W06) |
