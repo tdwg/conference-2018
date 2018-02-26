@@ -20,7 +20,7 @@ layout: tdwg2018
    c. If you find you have selected the wrong (sub)collection or need to change it, the button to do so may have disappeared, replaced by "Collection: "XXX Yyyyy"" Use the email icon in the top navigation bar to contact Dr Editorial Secretary of your need to change collections.
    d. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".  
 
-![](images/image_1.png)  
+![](images/image_4.png)  
 
 5) Next, fill in your abstract's metadata from the list at the left by hovering over a category, and then clicking on the pencil icon.  
    a. The only mandatory fields are "Title", "Abstract", "Keywords", and "Presenting Author".  
