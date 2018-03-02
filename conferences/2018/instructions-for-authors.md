@@ -30,7 +30,7 @@ layout: tdwg2018
    e. The corresponding author and the ordering of authors can be changed from the same menu. The corresponding author must be available to communicate about the abstract until final acceptance for publication. The presenting author is the person who will be delivering the talk/demonstration at the SPNHC or TDWG meeting.  
    f. The presenting author **must** register and attend the meeting.  
 
-6) Submissions are limited to 600 words (body of abstract) written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.  
+6) Submissions are limited to 600 words (**total**, no longer just the body of abstract) written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.  
    a. Please write for a general audience with no unexplained jargon.  
    b. The first mention of acronyms or abbreviations in the abstract or figure/table legends must be spelled out (exceptions include GIS, HTML, TDWG, WWW, URL, XML, JPG, TIF, TIFF, PDF).  
    c. If you include references, create the reference list first before linking it to your text (see [https://arpha.pensoft.net/tips/Cite-references](https://arpha.pensoft.net/tips/Cite-references)).   
