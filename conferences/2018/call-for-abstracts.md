@@ -7,7 +7,7 @@ layout: tdwg2018
 
 Dear Colleagues,
 
-We are excited to announce the [list of accepted workshops and symposia](https://tdwg.github.io/conferences/2018/sessions/index) for [TDWG2018](http://spnhc-tdwg2018.nz/), which will be held jointly with the Society for the Preservation of Natural History Collections (SPNHC) in Dunedin, NZ, 25 August–1 September, and to make the call for individual contributions to be published in *[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)*.  Instructions for submitting abstracts may be found [here](https://tdwg.github.io/conferences/2018/instructions-for-authors). Deadline for abstract submission is **12 March 2018**. Abstracts are required for all oral presentations, computer demonstrations, and posters. These categories are described below.
+We are excited to announce the [list of accepted workshops and symposia](https://tdwg.github.io/conferences/2018/sessions/index) for [TDWG2018](http://spnhc-tdwg2018.nz/), which will be held jointly with the Society for the Preservation of Natural History Collections (SPNHC) in Dunedin, NZ, 25 August–1 September, and to make the call for individual contributions to be published in *[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)*.  Instructions for submitting abstracts may be found [here](https://tdwg.github.io/conferences/2018/instructions-for-authors). **Deadline for abstract submission has been extended to 26 March 2018 23:59 UTC.** Editors are hoping to notify authors of acceptance by 9 April, or as soon as possible thereafter. Abstracts are required for all oral presentations, computer demonstrations, and posters. These categories are described below.
 
 **Types of Contributions:**
 
@@ -25,7 +25,7 @@ We will provide an opportunity for a limited number of live computer demonstrati
 
 **Posters**
 
-We will provide dedicated space for posters. Instructions on poster size will be posted nearer the conference.
+We will provide dedicated space and time for posters. Instructions on poster size will be posted nearer the conference.
 
 **Wild Ideas**
 
@@ -37,5 +37,7 @@ Gail Kampmeier<br/>
 Shelley James
 
 Program Committee Co-Chairs
+
+Updated 8 March 2018
 
 [conference@tdwg.org](mailto:conference@tdwg.org)
