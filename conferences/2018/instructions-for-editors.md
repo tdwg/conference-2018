@@ -29,16 +29,18 @@ For help: If something isn't working as you think it should, or if you need assi
 
 7. When reviewing, you can edit the document, add comments, and email the authors if you require clarification. If you would like revisions to be made, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS. But, of course, you can. Click "Save and Proceed".
 
-8. This will bring up an email to the authors for you to complete as appropriate.
+8. This will bring up an email form to the authors for you to complete as appropriate.
 
-9. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline (to be announced) for camera-ready copy.
+9. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline of **9 April** by which we hope all authors will know that their abstract has been/will be accepted.
 
 10. If/when you are ready to accept the submission, click "Approve", which will bring up an email you can customize to send to the authors.
 
 **Additional Notes:**
 
-* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non active links, incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms.
+* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non active links, incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms at first use.
 
 * For convenience there is a [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option that both you and the authors can use when exchanging revised versions.
 
 * It is your responsibility as editors to ensure high quality abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
+
+last updated 8 March 2018
