@@ -40,7 +40,7 @@ layout: tdwg2018
 
 8) Click "Validate." This will ensure that mandatory fields are filled in and the abstract is assigned to a collection. Be sure to finish this step, even if you and your co-authors are not finished writing or reviewing your submission.
 
-9) **When you are ready to submit your abstract**, click "Submit for Technical Review." This will send the manuscript to the organizers of your session, who will review it for relevance. You will receive a confirmation email and the status of the manuscript will say "in pre-submission review." **The deadline for completing this step is 26 March 2018 23:59 UTC**.  
+9) **When you are ready to submit your abstract**, click "Submit for Technical Review." This will send the manuscript to the organizers of your session, who will review it for relevance. You will receive a confirmation email and the status of the manuscript will say "in pre-submission review." **The deadline for the TDWG program to complete this step is 26 March 2018 23:59 UTC**.  
 
 10) The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision. **Every effort will be made to accept abstracts by 9 April or as soon as possible thereafter.**
 
