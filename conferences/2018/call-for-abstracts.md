@@ -25,7 +25,7 @@ We will provide an opportunity for a limited number of live computer demonstrati
 
 **Posters**
 
-We will provide dedicated space and time for posters. Instructions on poster size will be posted nearer the conference.
+We will provide dedicated space and time for authors to stand by their posters. 
 
 **Wild Ideas**
 
@@ -38,6 +38,6 @@ Shelley James
 
 Program Committee Co-Chairs
 
-Updated 8 March 2018
+Updated 10 March 2018
 
 [conference@tdwg.org](mailto:conference@tdwg.org)
