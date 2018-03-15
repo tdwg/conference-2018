@@ -9,13 +9,13 @@ A note on terminology: TDWG 2018 (a collection) has the following subcollections
 
 For help: If something isn't working as you think it should, or if you need assistance, you can email Pensoft's technical staff by clicking "Helpdesk" on the top navigation bar. If you have suggestions for how the workflow can be improved, please record them so that you can respond when we canvass authors and editors for feedback.
 
-1. Please look at [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you.
+1. Please review [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you. While the abstract submission deadline has been extended to 26 March 23:59 UTC, you can and should begin to edit and work with authors as soon after submission as possible. Authors have been advised that we will try to have all abstracts **ready for publication by 9 April** or soon thereafter.
 
 2. Please make sure the submitting author included additional and relevant metadata. In particular, affiliations and email addresses for all authors should be present.
 
 3. When an abstract is submitted to a symposium or workshop that you are organizing, you and the co-organizers you designated as editors, will receive an email with a link to the abstract. You will all be able to access it, but only one can have it open for editing at any given time. (The others will see a read-only version. Please do not leave the document open if you are not actively working on it). If you are working with a group of co-organizers, decide among yourselves how you will deal with abstracts as they come in and agree on a turn-around time for communicating with authors.
 
-4. You should be able to see all abstracts that have been submitted to your session in ARPHA's 'Collection editor' view [https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23). On the right hand side in the dashboard you can see the status of the abstract and the subcollection (i.e. "Part of [workshop or symposium]) to which it was submitted. (Some of you are co-organizers of more than one session.) Here is a short explanation of the document statuses:
+4. You should be able to see all abstracts that have been submitted to your session in ARPHA's 'Collection editor' view [https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23). On the right hand side in the dashboard you can see the status of the abstract and the subcollection (i.e. "Part of" [workshop, symposium or collection]) to which it was submitted. Some of you are co-organizers of more than one session. Here is a short explanation of the document statuses:
 
     1. *Draft*: It has not yet been submitted by the authors OR it has been returned to the authors for revision (via "Send Feedback").
 
@@ -29,7 +29,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
 7. When reviewing, you can edit the document, add comments, and email the authors if you require clarification. If you would like revisions to be made, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS. But, of course, you can. Click "Save and Proceed".
 
-8. This will bring up an email form to the authors for you to complete as appropriate.
+8. This will bring up an email form to the authors for you to personalize as appropriate.
 
 9. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline of **9 April** by which we hope all authors will know that their abstract has been/will be accepted.
 
@@ -37,10 +37,15 @@ For help: If something isn't working as you think it should, or if you need assi
 
 **Additional Notes:**
 
-* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non active links, incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms at first use.
+* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non-active or missing links (URLs), incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms at first use.
 
 * For convenience there is a [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option that both you and the authors can use when exchanging revised versions.
 
-* It is your responsibility as editors to ensure high quality abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
+* Are abstracts required for workshop presentations? 
+It depends. Formal talks should have abstracts, particularly if they will be listed in the Program. If the workshop is primarily discussion with more ad hoc (even if planned) contributions by speakers, organizers may decide that publishing a single abstract representing the workshop is preferable and adds something worthwhile to the literature. Publication of post-conference reports for non-training workshops has been tentatively approved for a limited number of workshops. Contact journal editors (see below) if you think your workshop is a good candidate.
 
-last updated 8 March 2018
+* I am not getting email notifications for abstract submissions from one of the sessions on which I am an organizer. One possibility is that you are in the ARPHA system under more than one email address (contact journal staff for help). Another is that your organization's spam filter is overly aggressive and marks these emails as junk (you may need to whitelist communications from pensoft.net). If you are still having issues, let the editors know.
+
+* It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
+
+last updated 14 March 2018
