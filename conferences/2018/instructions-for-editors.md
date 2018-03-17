@@ -48,4 +48,4 @@ It depends. Formal talks should have abstracts, particularly if they will be lis
 
 * It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
 
-last updated 14 March 2018
+last updated 17 March 2018
