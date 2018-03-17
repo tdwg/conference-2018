@@ -27,7 +27,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
 6. If you think the abstract is better suited for a poster, please send an email message to conference@tdwg.org, and we will decide whether to re-assign it.
 
-7. When reviewing, you can edit the document, add comments, and email the authors if you require clarification. If you would like revisions to be made, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS. But, of course, you can. Click "Save and Proceed".
+7. When reviewing, you can edit the document using the [track changes](https://arpha.pensoft.net/tips/Track-Changes) feature, [add comments](https://arpha.pensoft.net/tips/Comments), and email the authors if you require clarification before finishing your review. If you would like revisions to be made, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS (they are already answered in the affirmative, and should be true by the time you accept the manuscript for publication). But, of course, you can make changes to the default answers. Click "Save and Proceed".
 
 8. This will bring up an email form to the authors for you to personalize as appropriate.
 
@@ -39,7 +39,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
 * The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non-active or missing links (URLs), incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms at first use.
 
-* For convenience there is a [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option that both you and the authors can use when exchanging revised versions.
+* Please use the [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option rather than making arbitrary changes to the manuscript that the author may not see. Both you and the authors should use this method when exchanging revised versions.
 
 * Are abstracts required for workshop presentations? 
 It depends. Formal talks should have abstracts, particularly if they will be listed in the Program. If the workshop is primarily discussion with more ad hoc (even if planned) contributions by speakers, organizers may decide that publishing a single abstract representing the workshop is preferable and adds something worthwhile to the literature. Publication of post-conference reports for non-training workshops has been tentatively approved for a limited number of workshops. Contact journal editors (see below) if you think your workshop is a good candidate.
