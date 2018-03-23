@@ -11,7 +11,7 @@ layout: tdwg2018
 
 3) **If you have already started an abstract** and are coming back to work on it, log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of "My recent manuscripts." Click on your manuscript title, or click on "See More" to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php) of all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you can delete it here. You can also start new abstracts here, but you will need to specify the journal (BISS) and the manuscript type (conference abstract).  
 
-4) Click "Collections" on the top navigation bar of your manuscript (top right of figure below). This is where you find the conference (SPNHC or TDWG 2018) and subcollection (includes topics for SPNHC and list of symposia, workshops, and other contributions for TDWG) to which you are submitting your abstract. This step is critical as your abstract cannot be directed to the proper editors without a collection/subcollection designation.
+4) Click "Collections" on the top navigation bar of your manuscript (top right of figure below). This is where you find the conference (SPNHC or TDWG 2018) and subcollection (includes topics for SPNHC and list of symposia, workshops, and other contributions for TDWG) to which you are submitting your abstract. This step is critical as your abstract cannot be directed to the proper editors without a collection/subcollection designation. Note that both authors and editors now have the ability to change the collection designation while they have control of the manuscript.
 
 ![](images/image_0.png)  
 
@@ -42,7 +42,7 @@ layout: tdwg2018
 
 9) **When you are ready to submit your abstract**, click "Submit for Technical Review." This will send the manuscript to the organizers of your session, who will review it for relevance. You will receive a confirmation email and the status of the manuscript will say "in pre-submission review." **The deadline for the TDWG program to complete this step is 26 March 2018 23:59 UTC**.  
 
-10) The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision. **Every effort will be made to accept abstracts by 9 April or as soon as possible thereafter.**
+10) The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision. Please use track changes to make it easier for editors to see where you have made changes to the abstract. Accept or reject suggestions by editors using track changes. **Every effort will be made to accept abstracts by 9 April or as soon as possible thereafter.**
 
 11) **Once the abstract is accepted**, the 'Submit to the journal' button becomes visible in the ARPHA Writing Tool. You need to click this button and go through a checklist of submission steps.
 
@@ -90,4 +90,4 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case. Otherwise, communicate with the help desk to try to resolve technical issues or with conference organizers for content/meeting-related questions.
 
-last updated 11 March 2018
+last updated 22 March 2018
