@@ -25,7 +25,7 @@ We will provide an opportunity for a limited number of live computer demonstrati
 
 **Posters**
 
-We will provide dedicated space and time for authors to stand by their posters. 
+We will provide dedicated space and time for authors to stand by their posters. Posters may be as large as [A0](https://en.wikipedia.org/wiki/ISO_216) in a vertical orientation. Paper or fabric posters will be accepted and the means to afix them to poster boards will be provided at the venue. 
 
 **Wild Ideas**
 
@@ -38,6 +38,6 @@ Shelley James
 
 Program Committee Co-Chairs
 
-Updated 10 March 2018
+Updated 22 March 2018
 
 [conference@tdwg.org](mailto:conference@tdwg.org)
