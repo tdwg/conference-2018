@@ -27,9 +27,9 @@ For help: If something isn't working as you think it should, or if you need assi
 
 6. If you think the abstract is better suited for a poster, please send an email message to conference@tdwg.org, and we will decide whether to re-assign it.
 
-7. When reviewing, you can edit the document using the [track changes](https://arpha.pensoft.net/tips/Track-Changes) feature, [add comments](https://arpha.pensoft.net/tips/Comments), and email the authors if you require clarification before finishing your review. If you would like revisions to be made, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS (they are already answered in the affirmative, and should be true by the time you accept the manuscript for publication). But, of course, you can make changes to the default answers. Click "Save and Proceed".
+7. When reviewing, we strongly recommend that you make suggested wording changes in the document using the [track changes](https://arpha.pensoft.net/tips/Track-Changes) feature, but select the text and use the [add comments](https://arpha.pensoft.net/tips/Comments) when you have questions or other issues regarding specific text fragments. You can also email the authors if you require clarification before finishing your review. If revisions need to be made or considered, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS (they are already answered in the affirmative, and should be true by the time you accept the manuscript for publication). But, of course, you can make changes to the default answers. Click "Save and Proceed".
 
-8. This will bring up an email form to the authors for you to personalize as appropriate.
+8. This will bring up an email form to the authors for you to personalize as appropriate. We would suggest that you encourage authors to accept changes they agree with, but keep track changes on so that you can easily see other changes they may make to the document.
 
 9. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline of **9 April** by which we hope all authors will know that their abstract has been/will be accepted.
 
@@ -48,4 +48,4 @@ It depends. Formal talks should have abstracts, particularly if they will be lis
 
 * It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
 
-last updated 17 March 2018
+last updated 22 March 2018
