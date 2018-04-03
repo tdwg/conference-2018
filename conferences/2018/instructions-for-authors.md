@@ -27,7 +27,7 @@ layout: tdwg2018
    b. Titles should have all major words begin with a capital letter (Title Case); *please do not use all uppercase in your title.*  
    c. The submitting author and affiliation are taken from the profile of the logged-in user.  
    d. More authors can be added by clicking the icon beside "Authors" in the left-side navigation panel. Be sure to add affiliations for all authors.  
-   e. The corresponding author and the ordering of authors can be changed from the same menu. The corresponding author must be available to communicate about the abstract until final acceptance for publication. The presenting author is the person who will be delivering the talk/demonstration at the SPNHC or TDWG meeting.  
+   e. The corresponding author and the ordering of authors can be changed from the same menu (use up/down arrows to the right of names). The corresponding author must be available to communicate about the abstract until final acceptance for publication. The presenting author is the person who will be delivering the talk/demonstration at the SPNHC or TDWG meeting.  
    f. The presenting author **must** register and attend the meeting.  
 
 6) Submissions are limited to 600 words (**total**, no longer just the body of abstract) written in English and must address the [conference themes](http://spnhc-tdwg2018.nz/) or other topics in biodiversity informatics. Note that this is not a venue for reporting the results of research in your discipline.  
@@ -51,8 +51,12 @@ layout: tdwg2018
    a. The fourth and final step asks you to assign categories to your submission; this step is optional.
 
    b. When the submission process is finalised, the abstract goes directly to production and publication, a DOI is assigned, and the abstract cannot be revised further.
+   
+   c. If, after your manuscript has been approved, you fail to complete the steps in #11, you may see it tagged as "Incomplete Submission," even though an ID has been assigned to it in BISS. Because this is now has a BISS identifier, you must access actions to complete the submission (or delete it) via that dashboard [https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63](https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63) not ARPHA's.
+   
+   ![](images/IncompleteSubmission.png)
 
-   c. The deadline for publication will be announced after the close of abstract submissions, to enable us to prepare the program
+   d. The deadline final submission to the journal is **9 April**, to enable us to prepare the program.
 
 12) If at any time you need further assistance, check this [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal's technical staff via the system. Click "Helpdesk" on the top navigation bar to open a new window with an email form for you to fill in.
 
@@ -90,4 +94,4 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case. Otherwise, communicate with the help desk to try to resolve technical issues or with conference organizers for content/meeting-related questions.
 
-last updated 22 March 2018
+last updated 3 April 2018
