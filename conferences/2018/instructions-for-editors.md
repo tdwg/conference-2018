@@ -20,8 +20,10 @@ For help: If something isn't working as you think it should, or if you need assi
     1. *Draft*: It has not yet been submitted by the authors OR it has been returned to the authors for revision (via "Send Feedback").
 
     2. *In pre-submission review*: It is now the responsibility of you and your co-organizers to review the abstract, and either {Approve, Send feedback, or Reject}.
+    
+    3. *Approved for submission*: As editors, you no longer have access to this abstract. It is now up to authors to finish the abstract submission process. See #11 [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors) for a description and various places where authors may run into trouble (including failure to validate and 'Incomplete Submission').
 
-    3. *In layout*: Has been approved, and is awaiting publication.
+    4. *In layout*: Author has completed the final submission process, and abstract is awaiting publication.
 
 5. If the abstract is not a good fit for your workshop/symposium, but you think it might be appropriate for a different subcollection, please send an email message to conference@tdwg.org with your suggestion. In consultation with the the editors of that subcollection (i.e. the organizers of the corresponding workshop/symposium), we will decide if it makes sense to re-assign it.
 
@@ -48,4 +50,4 @@ It depends. Formal talks should have abstracts, particularly if they will be lis
 
 * It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
 
-last updated 22 March 2018
+last updated 12 April 2018
