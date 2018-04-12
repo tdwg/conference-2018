@@ -44,7 +44,7 @@ layout: tdwg2018
 
 10) The organizers may accept or reject your submission, or may send feedback requesting changes, or suggest submission to a different session. Note that if a submission is returned to you for changes, its status will return to Draft. Only authors will have access to the abstract until you make changes, and redo steps 8 and 9. This may require more than one cycle of revision. Please use track changes to make it easier for editors to see where you have made changes to the abstract. Accept or reject suggestions by editors using track changes. **Every effort will be made to accept abstracts by 9 April or as soon as possible thereafter.**
 
-11) **Once the abstract is accepted**, the 'Submit to the journal' button becomes visible in the ARPHA Writing Tool. You need to click this button and go through a checklist of submission steps.
+11) **Once the abstract is accepted**, the 'Submit to the journal' button becomes visible in the ARPHA Writing Tool. Before clicking on it, click the validate button first to make sure there are no lingering issues [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). You will not be able to submit the abstract if any issues are outstanding. Any last changes need to be made now, before you click the submit button. When you are ready to submit your abstract for publication, click the 'Submit to the journal' button and go through a checklist of submission steps.
 
 ![](images/image_2.jpg)
 
@@ -94,4 +94,4 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case. Otherwise, communicate with the help desk to try to resolve technical issues or with conference organizers for content/meeting-related questions.
 
-last updated 3 April 2018
+last updated 12 April 2018
