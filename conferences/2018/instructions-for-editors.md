@@ -21,7 +21,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
     2. *In pre-submission review*: It is now the responsibility of you and your co-organizers to review the abstract, and either {Approve, Send feedback, or Reject}.
     
-    3. *Approved for submission*: As editors, you no longer have access to this abstract. It is now up to authors to finish the abstract submission process. See #11 [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors) for a description and various places where authors may run into trouble (including failure to validate and 'Incomplete Submission').
+    3. *Approved for submission*: As editors, you no longer have access to this abstract. It is now up to authors to finish the abstract submission process. See #11 [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors) for a description and various places where authors may run into trouble (including *Validation unsuccessful* and *Incomplete Submission*).
 
     4. *In layout*: Author has completed the final submission process, and abstract is awaiting publication.
 
