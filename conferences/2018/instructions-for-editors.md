@@ -19,7 +19,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
     1. *Draft*: It has not yet been submitted by the authors OR it has been returned to the authors for revision (via "Send Feedback").
 
-    2. *In pre-submission review*: It is now the responsibility of you and your co-organizers to review the abstract, and either {Approve, Send feedback, or Reject}.
+    2. *In pre-submission review*: It is now the responsibility of you and your co-organizers to review the abstract, and either {Approve, Send feedback, or Reject}. Before approving an abstract, please use the Validate button to clear up issues. Although you can approve a manuscript with issues, authors will have to resolve them before they can complete the submission process.  Only reject submissions that are not relevant to the organization's mission or meeting's themes. Get a second opinion from a member of the [journal editorial board](https://biss.pensoft.net/board/) before rejecting an manuscript. 
     
     3. *Approved for submission*: As editors, you no longer have access to this abstract. It is now up to authors to finish the abstract submission process. See #11 [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors) for a description and various places where authors may run into trouble (including *Validation unsuccessful* and *Incomplete Submission*).
 
