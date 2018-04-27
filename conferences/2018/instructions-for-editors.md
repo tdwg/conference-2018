@@ -31,7 +31,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
 7. When reviewing, we strongly recommend that you make suggested wording changes in the document using the [track changes](https://arpha.pensoft.net/tips/Track-Changes) feature, but select the text and use the [add comments](https://arpha.pensoft.net/tips/Comments) when you have questions or other issues regarding specific text fragments. You can also email the authors if you require clarification before finishing your review. If revisions need to be made or considered, click "Send Feedback". This will bring up a questionnaire. YOU DO NOT NEED TO ANSWER ANY OF THESE QUESTIONS (they are already answered in the affirmative, and should be true by the time you accept the manuscript for publication). But, of course, you can make changes to the default answers. Click "Save and Proceed".
 
-8. This will bring up an email form to the authors for you to personalize as appropriate. We would suggest that you encourage authors to accept changes they agree with, but keep track changes on so that you can easily see other changes they may make to the document.
+8. This will bring up an email form to the authors for you to personalize as appropriate. We would suggest that you encourage authors to accept changes they agree with, but keep track changes on so that you can easily see other changes they may make to the document. 
 
 9. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline of **9 April** by which we hope all authors will know that their abstract has been/will be accepted.
 
@@ -39,7 +39,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
 **Additional Notes:**
 
-* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non-active or missing links (URLs), incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms at first use.
+* The most frequent non compliance with the journal's standards that need to be corrected are: missing authors' affiliations, non-active or missing links (URLs), incorrect citing of the references (reference cited in text does not match reference from list), and non-expansion of acronyms at first use. There are also typos and wording issues, particularly, but not exclusively from authors for whom English is not native. **Please read all content carefully,** you are acting both as an editor and reviewer. If in doubt, seek a second opinion.
 
 * Please use the [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option rather than making arbitrary changes to the manuscript that the author may not see. Both you and the authors should use this method when exchanging revised versions.
 
@@ -50,4 +50,4 @@ It depends. Formal talks should have abstracts, particularly if they will be lis
 
 * It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
 
-last updated 12 April 2018
+last updated 27 April 2018
