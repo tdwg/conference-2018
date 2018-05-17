@@ -7,9 +7,9 @@ layout: tdwg2018
 
 A note on terminology: TDWG 2018 (a collection) has the following subcollections: 16 workshops, 14 symposia; posters; computer demonstrations; and contributed oral presentations, which is a catch-all for presentations that don't have a home in any of the workshops or symposia. In addition, interest/task group (IG/TG) meetings (similar to SPNHC special interest groups or SIGs) will also be scheduled In the Proceedings, each of these session will be represented by a "subcollection". Therefore, if you are a workshop or symposium organizer, you are considered to be a subcollection editor in ARPHA. SPNHC 2018 has its own collection and subcollections, growing its symposia and workshops organically from submissions to the themes (=subcollections) listed under its collection.
 
-For help: If something isn't working as you think it should, or if you need assistance, you can email Pensoft's technical staff by clicking "Helpdesk" on the top navigation bar. If you have suggestions for how the workflow can be improved, please record them so that you can respond when we canvass authors and editors for feedback.
+For help: If something isn't working as you think it should, or if you need assistance, you can email Pensoft's technical staff by clicking "Helpdesk" on the top navigation bar. If you have suggestions for how the workflow can be improved, please record them so that you can respond when we canvass authors and editors for feedback. **Remember to ALWAYS include an article identifier number or BISS# in the subject line of all communications.**
 
-1. Please review [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you. While the abstract submission deadline has been extended to 26 March 23:59 UTC, you can and should begin to edit and work with authors as soon after submission as possible. Authors have been advised that we will try to have all abstracts **ready for publication by 9 April** or soon thereafter.
+1. Please review [https://tdwg.github.io/conferences/2018/instructions-for-authors](https://tdwg.github.io/conferences/2018/instructions-for-authors). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you. You should begin to edit and work with authors as soon after submission as possible. 
 
 2. Please make sure the submitting author included additional and relevant metadata. In particular, affiliations and email addresses for all authors should be present.
 
@@ -43,6 +43,8 @@ For help: If something isn't working as you think it should, or if you need assi
 
 * Please use the [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option rather than making arbitrary changes to the manuscript that the author may not see. Both you and the authors should use this method when exchanging revised versions.
 
+* Note that the ARPHA platform may send out automatic reminders to authors in the case of prolonged inactivity and after three such ignored notifications will automatically archive (remove the abstract from view) such manuscripts. Either you or the author will need to notify Pensoft to retrieve such an abstract from this fate. Please make sure all communications include an article identifier (ID#) in subject line and author name in the text of the message.
+
 * Are abstracts required for workshop presentations? 
 It depends. Formal talks should have abstracts, particularly if they will be listed in the Program. If the workshop is primarily discussion with more ad hoc (even if planned) contributions by speakers, organizers may decide that publishing a single abstract representing the workshop is preferable and adds something worthwhile to the literature. Publication of post-conference reports for non-training workshops has been tentatively approved for a limited number of workshops. Contact journal editors (see below) if you think your workshop is a good candidate.
 
@@ -50,4 +52,4 @@ It depends. Formal talks should have abstracts, particularly if they will be lis
 
 * It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organizations and this journal. If you feel unable to do this task, would like additional guidance, or help, please contact the journal editors [https://biss.pensoft.net/contacts/](https://biss.pensoft.net/contacts/) 
 
-last updated 27 April 2018
+last updated 17 May 2018
