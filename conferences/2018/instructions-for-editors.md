@@ -43,6 +43,10 @@ For help: If something isn't working as you think it should, or if you need assi
 
 * Please use the [Track changes](https://arpha.pensoft.net/tips/Track-Changes) option rather than making arbitrary changes to the manuscript that the author may not see. Both you and the authors should use this method when exchanging revised versions.
 
+* Note that emails originating from pensoft.net about your communications with authors are often interpreted by overzealous email systems as potential spam. If authors seem unresponsive, consider contacting them with your email from outside of the ARPHA environment. As your system may behave similarly, please whitelist or otherwise train your email system to recognize these communications. 
+
+* When you use the ARPHA email system, it sends out individual emails to each of the recipients so in effect, no one else knows who has gotten your email (and you don't get a copy either). This can lead to some duplication of effort for some tasks. Be aware of this feature and consider whether another platform may be more appropriate for some communications where you expect feedback.
+
 * Note that the ARPHA platform may send out automatic reminders to authors in the case of prolonged inactivity and after three such ignored notifications will automatically archive (remove the abstract from view) such manuscripts. Either you or the author will need to notify Pensoft to retrieve such an abstract from this fate. Please make sure all communications include an article identifier (ID#) in subject line and author name in the text of the message.
 
 * Are abstracts required for workshop presentations? 
