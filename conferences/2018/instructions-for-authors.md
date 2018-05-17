@@ -5,7 +5,7 @@ layout: tdwg2018
 
 # Instructions for Abstract Submission  
 
-1) **Log in** or register at [https://biss.pensoft.net/](https://biss.pensoft.net/)  
+1) **Log in** or register at [https://biss.pensoft.net/](https://biss.pensoft.net/). Note that emails originating from pensoft.net about the status of your work are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications.  
 
 2) **If you are starting a new abstract**, click the "Start SPNHC+TDWG 2018 Conference Abstract" button. Clicking this button takes you to the ARPHA writing tool and creates a *new* Untitled abstract with some of the author metadata you used to create your account.  
 
@@ -95,6 +95,10 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 **What if I don't see my abstract anywhere?**
 
-It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case. Otherwise, communicate with the help desk to try to resolve technical issues or with conference organizers for content/meeting-related questions.
+It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case. 
 
-last updated 27 April 2018
+Another possibility is that the ARPHA platform has automatically archived your abstract due to prolonged inactivity (does so after three ignored email warnings). You will need to notify Pensoft to retrieve such an abstract from this fate. Please make sure all communications include an article identifier (ID#) in subject line. When it is returned, it will be in Draft mode and you will need to need to start at #9 in this document. Editors will not be able to work on or accept a manuscript in Draft status.
+
+Otherwise, communicate with the help desk to try to resolve technical issues or with conference organizers for content/meeting-related questions.
+
+last updated 17 May 2018
