@@ -9,7 +9,7 @@ jQuery.noConflict();
         }).insertAfter('article h1');
 
         $.ajax({
-            url: '/includes/tdwg2018-symposium-or-workshop-dropdown.html',
+            url: '/_includes/tdwg2018-symposium-or-workshop-dropdown.html',
             success: function(data) {
                 $('.symposia-and-workshops-nav').html(data);
                 $("ul.dropdown li").hover(function() {
