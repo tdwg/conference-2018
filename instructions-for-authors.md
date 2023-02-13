@@ -16,7 +16,7 @@ layout: tdwg2018
 ![](images/image_0.png)  
 
    a. If you are an invited speaker for a symposium or workshop in TDWG, select it from the options in the list.  
-   b. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](https://tdwg.github.io/conferences/2018/sessions/index) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers.  
+   b. If you are submitting an oral presentation for consideration by a symposium or workshop that is open to submissions (see [list](/sessions/) and check whether the one you are interested in will accept unsolicited contributions), select it from the options in the list. Note that this does not guarantee that your submission will be accepted by the organizers.  
    c. SPNHC Collections will not be explicitly visible on the manuscript page, but clicking on the Collections icon will show you the collection to which your abstract has been submitted. TDWG collections are displayed on the manuscript page (to the right of Revision History).
    d. If you would like to deliver an oral presentation but none of the symposia or workshops match your topic, choose "Contributed Oral Presentations". You can also select "Posters" or "Computer demonstrations".  
 
@@ -75,7 +75,7 @@ Pensoft allows articles to be grouped into "collections" (typically around a the
 
 **How does the editing process work?**
 
-Please refer to the [instructions for editors](https://tdwg.github.io/conferences/2018/instructions-for-editors/).
+Please refer to the [instructions for editors](/instructions-for-editors/).
 
 **Where do I enter the state or province under address as an author?**
 
