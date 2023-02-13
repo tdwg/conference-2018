@@ -1,36 +1,14 @@
+# SITE SETTINGS
 title: TDWG Conference Website
-author:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-
-# social links
-#twitter_username: jekyllrb
-#github_username:  jekyll
-#rss: rss
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-#linkedin_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
-
+url: "https://tdwg.github.io"
+baseurl: "/conference-2018"
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
-
-# Build settings
+# BUILD SETTINGS
 markdown: kramdown
 theme: minima
+minima:
+  date_format: "%b %-d, %Y"
 exclude:
   - Gemfile
   - Gemfile.lock
