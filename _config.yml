@@ -1,7 +1,5 @@
 # SITE SETTINGS
 title: TDWG Conference Website
-url: "https://tdwg.github.io"
-baseurl: "/conference-2018"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # BUILD SETTINGS
