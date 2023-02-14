@@ -9,7 +9,7 @@ A note on terminology: TDWG 2018 (a collection) has the following subcollections
 
 For help: If something isn't working as you think it should, or if you need assistance, you can email Pensoft's technical staff by clicking "Helpdesk" on the top navigation bar. If you have suggestions for how the workflow can be improved, please record them so that you can respond when we canvass authors and editors for feedback. **Remember to ALWAYS include an article identifier number or BISS# in the subject line of all communications.**
 
-1. Please review [instructions for authors](/instructions-for-authors/). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you. You should begin to edit and work with authors as soon after submission as possible. 
+1. Please review [instructions for authors](/instructions-for-authors). Being familiar with the author's perspective will help you understand the ARPHA workflow, and what is expected of you. You should begin to edit and work with authors as soon after submission as possible. 
 
 2. Please make sure the submitting author included additional and relevant metadata. In particular, affiliations and email addresses for all authors should be present.
 
@@ -21,7 +21,7 @@ For help: If something isn't working as you think it should, or if you need assi
 
     2. *In pre-submission review*: It is now the responsibility of you and your co-organizers to review the abstract, and either {Approve (see #10), Send feedback (see #9), or Reject}. Only reject submissions that are not relevant to the organization's mission or meeting's themes. Get a second opinion from a member of the [journal editorial board](https://biss.pensoft.net/board/) before rejecting an manuscript. 
     
-    3. *Approved for submission*: As editors, you no longer have access to this abstract. It is now up to authors to finish the abstract submission process. See #11 [instructions for authors](/instructions-for-authors/) for a description and various places where authors may run into trouble (including *Validation unsuccessful* and *Incomplete Submission*).
+    3. *Approved for submission*: As editors, you no longer have access to this abstract. It is now up to authors to finish the abstract submission process. See #11 [instructions for authors](/instructions-for-authors) for a description and various places where authors may run into trouble (including *Validation unsuccessful* and *Incomplete Submission*).
 
     4. *In layout*: Author has completed the final submission process, and abstract is awaiting publication.
 

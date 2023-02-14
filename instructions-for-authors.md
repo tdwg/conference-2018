@@ -75,7 +75,7 @@ Pensoft allows articles to be grouped into "collections" (typically around a the
 
 **How does the editing process work?**
 
-Please refer to the [instructions for editors](/instructions-for-editors/).
+Please refer to the [instructions for editors](/instructions-for-editors).
 
 **Where do I enter the state or province under address as an author?**
 
