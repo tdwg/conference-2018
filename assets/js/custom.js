@@ -7,26 +7,6 @@ jQuery.noConflict();
         $('<div/>', {
             class: 'symposia-and-workshops-nav',
         }).insertAfter('article h1');
-
-        $.ajax({
-            url: '/_includes/tdwg2018-symposium-or-workshop-dropdown.html',
-            success: function(data) {
-                $('.symposia-and-workshops-nav').html(data);
-                $("ul.dropdown li").hover(function() {
-
-                    $(this).addClass("hover");
-                    $('ul:first',this).css('visibility', 'visible');
-
-                }, function(){
-
-                    $(this).removeClass("hover");
-                    $('ul:first',this).css('visibility', 'hidden');
-
-                });
-
-                $("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");
-            }
-        });
     }
 
     // Highlighting of current page in sidebar
