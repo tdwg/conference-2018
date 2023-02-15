@@ -3,7 +3,7 @@
 Static (Jekyll) website for the TDWG 2018 Annual Conference (Dunedin, New Zealand).
 
 - Originally hosted from <https://tdwg.github.io/conferences/2018/>
-- Now hosted from <https://tdwg.github.io/conference-2018/> with custom domain <https://2018.tdwg.org>
+- Now hosted from <https://tdwg.github.io/conference-2018/> with custom domain <http://2018.tdwg.org>
 
 TDWG 2018 was a joint conference with SPNHC, which was hosted at <http://spnhc-tdwg2018.nz/> (now defunct). This repository contains the TDWG specific pages:
 
