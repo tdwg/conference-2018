@@ -1,6 +1,6 @@
 # TDWG 2018
 
-Jekyll website for the TDWG 2018 Annual Conference.
+Static (Jekyll) website for the TDWG 2018 Annual Conference (Dunedin, New Zealand).
 
 - Originally hosted from <https://tdwg.github.io/conferences/2018/>
 - Now hosted from <https://tdwg.github.io/conference-2018/> with custom domain <https://2018.tdwg.org>
